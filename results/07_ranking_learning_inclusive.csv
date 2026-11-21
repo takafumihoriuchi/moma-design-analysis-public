@@ -1,0 +1,934 @@
+順位,機関ID,教育機関名,所在国,学んだ人数,卒業・修了（ランキング計上）,卒業の記載あり・集計保留,在籍・学修,修了の判定保留,中退,短期・交換・聴講,卒業ランキングの順位
+1,rca,Royal College of Art,英国,91,58,0,22,10,0,1,1
+2,polimi,Politecnico di Milano,イタリア,64,48,0,5,9,2,0,2
+3,mit,Massachusetts Institute of Technology,米国,42,29,0,6,5,2,0,3
+4,bauhaus,Bauhaus,ドイツ,40,9,0,26,3,2,0,20
+5,art_students_league,"Art Students League, New York",米国,39,0,0,38,0,1,0,圏外（卒業・修了の計上なし）
+5,pratt,Pratt Institute,米国,39,25,0,11,1,2,0,5
+7,paris_beaux_arts,"École des Beaux-Arts, Paris",フランス,35,5,0,27,1,2,0,32
+8,columbia,Columbia University,米国,32,15,0,11,5,1,0,7
+9,design_academy_eindhoven,Design Academy Eindhoven,オランダ,30,27,0,2,0,1,0,4
+9,yale,Yale University,米国,30,21,0,4,5,0,0,6
+11,academie_julian,Académie Julian,フランス,29,0,0,28,0,1,0,圏外（卒業・修了の計上なし）
+12,artcenter,Art Center School,米国,27,14,0,10,3,0,0,8
+12,nyu,New York University,米国,27,14,0,10,1,2,0,8
+14,vienna_fine_arts,Akademie der bildenden Künste Wien,オーストリア,26,5,0,17,1,3,0,32
+15,cooper_union,Cooper Union,米国,24,14,0,7,3,0,0,8
+15,harvard,Harvard University,米国,24,10,0,5,3,5,1,17
+17,kunstgewerbe_wien,Kunstgewerbeschule Wien,オーストリア,22,4,0,15,3,0,0,40
+18,zurich_applied_arts,Kunstgewerbeschule Zürich,スイス,21,4,0,16,0,1,0,40
+18,munich_academy,Königlich-Bayerische Akademie der Bildenden Künste München,ドイツ,21,1,0,17,1,2,0,136
+18,risd,Rhode Island School of Design,米国,21,13,0,3,4,1,0,12
+21,basel_gewerbe,Allgemeine Gewerbeschule Basel,スイス,20,2,0,13,5,0,0,79
+22,chicago_art_institute,School of the Art Institute of Chicago,米国,19,4,0,12,2,1,0,40
+22,ucl,University College London,英国,19,2,0,17,0,0,0,79
+24,warsaw_arts,"Academy of Plastic Arts, Warsaw",ポーランド,18,12,0,2,4,0,0,14
+24,copenhagen_academy,"Kunstakademiet, Copenhagen",デンマーク,18,8,0,6,4,0,0,24
+24,parsons,Parsons School of Design,米国,18,10,0,7,0,0,1,17
+24,florence,Università degli Studi di Firenze,イタリア,18,14,0,4,0,0,0,8
+28,cranbrook,Cranbrook Academy of Art,米国,17,13,0,3,0,0,1,12
+28,uc_berkeley,"University of California, Berkeley",米国,17,9,0,5,2,1,0,20
+30,helsinki_industrial_arts,Helsingin Taideteollinen Oppilaitos,フィンランド,16,12,0,3,1,0,0,14
+30,stanford,Stanford University,米国,16,12,0,2,2,0,0,14
+30,vkhutemas_moscow,"VKhUTEMAS / VKhUTEIN, Moscow",ロシア・ソ連,16,6,0,7,2,1,0,29
+33,ivkno,Instituut voor Kunstnijverheidsonderwijs / Gerrit Rietveld Academie,オランダ,15,6,0,7,0,2,0,29
+33,st_martins,St Martins School of Art,英国,15,2,0,10,1,1,1,79
+33,paris_arts_decoratifs,"École des Arts Décoratifs, Paris",フランス,15,3,0,12,0,0,0,58
+36,central,"Central School of Art, London",英国,14,4,0,8,0,1,1,40
+37,iuav,Istituto Universitario di Architettura di Venezia,イタリア,12,8,0,1,3,0,0,24
+38,sva,Cartoonists and Illustrators School / School of Visual Arts,米国,11,5,0,5,0,1,0,32
+38,central_saint_martins,Central Saint Martins College of Art and Design,英国,11,7,0,3,1,0,0,27
+38,princeton,Princeton University,米国,11,9,0,0,1,1,0,20
+38,tokyo_geidai,東京藝術大学,日本,11,10,0,0,0,1,0,17
+42,academie_grande_chaumiere,Académie de la Grande Chaumière,フランス,10,0,0,8,0,0,2,圏外（卒業・修了の計上なし）
+42,csfa,California School of Fine Arts,米国,10,0,0,8,2,0,0,圏外（卒業・修了の計上なし）
+42,copenhagen_crafts,"Kunsthåndværkerskolen, Copenhagen",デンマーク,10,3,0,3,4,0,0,58
+42,torino,Politecnico di Torino,イタリア,10,8,0,0,2,0,0,24
+42,th_wien,Technische Hochschule Wien,オーストリア,10,2,0,6,2,0,0,79
+42,ucla,"University of California, Los Angeles",米国,10,3,0,5,2,0,0,58
+42,paris_sorbonne_historical,Université de Paris (Sorbonne),フランス,10,1,0,5,2,1,1,136
+49,hfg_ulm,Hochschule für Gestaltung Ulm,ドイツ,9,4,0,2,2,1,0,40
+49,institute_design_chicago,"Institute of Design, Chicago",米国,9,5,0,4,0,0,0,32
+49,munich_kunstgewerbe,Kunstgewerbeschule München,ドイツ,9,0,0,8,0,1,0,圏外（卒業・修了の計上なし）
+49,buenos_aires,Universidad de Buenos Aires,アルゼンチン,9,9,0,0,0,0,0,20
+49,usc,University of Southern California,米国,9,6,0,3,0,0,0,29
+54,hague_academy,"Academie voor Beeldende Kunsten, Den Haag",オランダ,8,1,0,5,0,2,0,136
+54,academie_colarossi,Académie Colarossi,フランス,8,0,0,7,0,1,0,圏外（卒業・修了の計上なし）
+54,bezalel,"Bezalel School of Arts, Jerusalem",イスラエル,8,7,0,0,1,0,0,27
+54,hornsey_art,Hornsey College of Art,英国,8,0,0,8,0,0,0,圏外（卒業・修了の計上なし）
+54,weimar_kunstschule,Kunstschule Weimar,ドイツ,8,1,0,5,1,1,0,136
+54,newschool,New School for Social Research,米国,8,0,0,7,0,0,1,圏外（卒業・修了の計上なし）
+54,cambridge,University of Cambridge,英国,8,4,0,3,0,1,0,40
+54,university_texas_austin,University of Texas at Austin,米国,8,3,0,2,2,1,0,58
+62,rotterdam_arts,"Academie voor Beeldende Kunsten, Rotterdam",オランダ,7,1,0,6,0,0,0,136
+62,brera_academy,Accademia di Belle Arti di Brera,イタリア,7,2,0,4,0,0,1,79
+62,brown_university,Brown University,米国,7,4,0,2,1,0,0,40
+62,eth_zurich,Eidgenössische Technische Hochschule Zürich,スイス,7,4,0,1,1,1,0,40
+62,iit,Illinois Institute of Technology,米国,7,4,0,3,0,0,0,40
+62,dusseldorf_academy,Kunstakademie Düsseldorf,ドイツ,7,1,0,5,1,0,0,136
+62,london_printing,London College of Printing,英国,7,2,0,3,1,0,1,79
+62,berlin_technical,Technische Hochschule Charlottenburg,ドイツ,7,0,0,4,0,3,0,圏外（卒業・修了の計上なし）
+62,cincinnati,University of Cincinnati,米国,7,4,0,2,1,0,0,40
+62,washington,"University of Washington, Seattle",米国,7,5,0,1,1,0,0,32
+62,berlin_kunstgewerbe,Unterrichtsanstalt des Kunstgewerbemuseums Berlin,ドイツ,7,0,0,7,0,0,0,圏外（卒業・修了の計上なし）
+73,krakow_arts,"Academy of Fine Arts, Kraków",ポーランド,6,3,0,2,1,0,0,58
+73,black_mountain,Black Mountain College,米国,6,1,0,5,0,0,0,136
+73,chelsea,Chelsea School of Art,英国,6,0,0,4,1,1,0,圏外（卒業・修了の計上なし）
+73,cornell,Cornell University,米国,6,5,0,1,0,0,0,32
+73,folkwang_gestaltung,"Folkwangschule für Gestaltung, Essen",ドイツ,6,0,0,5,1,0,0,圏外（卒業・修了の計上なし）
+73,goldsmiths,Goldsmiths College,英国,6,1,0,5,0,0,0,136
+73,konstfack,"Konstfackskolan, Stockholm",スウェーデン,6,3,0,2,1,0,0,58
+73,lmu,Ludwig-Maximilians-Universität München,ドイツ,6,1,0,4,1,0,0,136
+73,manchester_polytechnic,Manchester Polytechnic,英国,6,3,0,2,1,0,0,58
+73,national_academy_design,"National Academy of Design, New York",米国,6,0,0,4,1,1,0,圏外（卒業・修了の計上なし）
+73,pennsylvania_academy_finearts,Pennsylvania Academy of the Fine Arts,米国,6,0,0,6,0,0,0,圏外（卒業・修了の計上なし）
+73,syracuse,Syracuse University,米国,6,4,0,2,0,0,0,40
+73,tum,Technische Hochschule München,ドイツ,6,1,0,5,0,0,0,136
+73,delft_technology,Technische Hogeschool Delft,オランダ,6,2,0,3,0,1,0,79
+73,umprum,"Uměleckoprůmyslová škola, Praha / VŠUP",チェコ・チェコスロバキア,6,1,0,4,1,0,0,136
+88,academie_ranson,Académie Ranson,フランス,5,0,0,4,0,0,1,圏外（卒業・修了の計上なし）
+88,venice_academy,Accademia di Belle Arti di Venezia,イタリア,5,1,0,2,2,0,0,136
+88,dresden_academy,Akademie für Bildende Künste Dresden,ドイツ,5,1,0,3,1,0,0,136
+88,leipzig_book_graphics,"Akademie für Buchkunst und Grafik, Leipzig",ドイツ,5,0,0,4,1,0,0,圏外（卒業・修了の計上なし）
+88,camberwell,Camberwell School of Art,英国,5,3,0,2,0,0,0,58
+88,carnegie_mellon,Carnegie Mellon University,米国,5,3,0,1,1,0,0,58
+88,chouinard,Chouinard Art Institute,米国,5,1,0,4,0,0,0,136
+88,llotja_barcelona,"Escola Llotja, Barcelona",スペイン,5,0,0,5,0,0,0,圏外（卒業・修了の計上なし）
+88,glasgow_art,Glasgow School of Art,英国,5,0,0,5,0,0,0,圏外（卒業・修了の計上なし）
+88,isia_firenze,ISIA Firenze,イタリア,5,0,0,4,1,0,0,圏外（卒業・修了の計上なし）
+88,imperial_college_london,"Imperial College, London",英国,5,4,0,1,0,0,0,40
+88,minneapolis_college_art_design,Minneapolis College of Art and Design,米国,5,2,0,3,0,0,0,79
+88,rijksakademie_amsterdam,"Rijksacademie voor Beeldende Kunsten, Amsterdam",オランダ,5,0,0,5,0,0,0,圏外（卒業・修了の計上なし）
+88,royal_academy,Royal Academy Schools,英国,5,0,0,3,1,1,0,圏外（卒業・修了の計上なし）
+88,slade_ucl,"Slade School of Fine Art, University College London",英国,5,0,0,3,1,0,1,圏外（卒業・修了の計上なし）
+88,stockholm_tekniska,"Tekniska skolan, Stockholm",スウェーデン,5,0,0,3,0,2,0,圏外（卒業・修了の計上なし）
+88,michigan,University of Michigan,米国,5,4,0,1,0,0,0,40
+88,upenn,University of Pennsylvania,米国,5,1,0,3,1,0,0,136
+88,berlin_university_historical,Universität Berlin（当時の機関）,ドイツ,5,1,0,2,0,1,1,136
+88,ecal_lausanne,École cantonale d’art de Lausanne (ECAL),スイス,5,4,0,0,1,0,0,40
+88,ensci_les_ateliers,École nationale supérieure de création industrielle – Les Ateliers,フランス,5,5,0,0,0,0,0,32
+88,kuwasawa,桑沢デザイン研究所,日本,5,5,0,0,0,0,0,32
+110,arnhem_academy,Academie voor Beeldende Kunsten Arnhem,オランダ,4,3,0,0,0,1,0,58
+110,brussels_royal_arts,Académie Royale des Beaux-Arts de Bruxelles,ベルギー,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,zagreb_academy,"Akademija likovnih umjetnosti, Zagreb",クロアチア,4,2,0,1,0,1,0,79
+110,architectural_association_london,Architectural Association School of Architecture,英国,4,4,0,0,0,0,0,40
+110,edinburgh_art,Edinburgh College of Art,英国,4,1,0,3,0,0,0,136
+110,budapest_college_applied_arts,Hungarian Academy of Crafts and Design,ハンガリー,4,3,0,0,1,0,0,58
+110,hogre_konstindustriella,"Högre konstindustriella skolan, Stockholm",スウェーデン,4,1,0,3,0,0,0,136
+110,kingston,Kingston University,英国,4,3,0,1,0,0,0,58
+110,antwerp_royal_academy,"Koninklijke Academie voor Schone Kunsten, Antwerpen",ベルギー,4,1,0,3,0,0,0,136
+110,hamburg_kunstgewerbeschule,Kunstgewerbeschule Hamburg,ドイツ,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,luzern_applied_arts,Kunstgewerbeschule Luzern,スイス,4,1,0,3,0,0,0,136
+110,quellinusschool,Kunstnijverheidsschool Quellinus,オランダ,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,kolner_werkschulen,Kölner Werkschulen,ドイツ,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,massart,Massachusetts School of Art,米国,4,3,0,0,1,0,0,58
+110,middlesex_polytechnic,Middlesex Polytechnic / Middlesex University,英国,4,2,0,1,1,0,0,79
+110,moscow_painting_sculpture_arch,"Moscow School of Painting, Sculpture and Architecture",ロシア・ソ連,4,0,0,2,1,1,0,圏外（卒業・修了の計上なし）
+110,wroclaw_arts,"Państwowa Wyższa Szkoła Sztuk Plastycznych, Wrocław",ポーランド,4,3,0,1,0,0,0,58
+110,budapest_royal_finearts,"Royal Academy of Fine Arts, Budapest",ハンガリー,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,san_jose_state,San José State University,米国,4,3,0,1,0,0,0,58
+110,smfa_boston,"School of the Museum of Fine Arts, Boston",米国,4,2,0,2,0,0,0,79
+110,stuttgart_academy_postwar,Staatliche Akademie der Bildenden Künste Stuttgart（戦後）,ドイツ,4,2,0,2,0,0,0,79
+110,warsaw_school_fine_arts_historical,Szkoła Sztuk Pięknych w Warszawie（当時校）,ポーランド,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,dresden_technical,Technische Hochschule Dresden,ドイツ,4,1,0,3,0,0,0,136
+110,uchicago,University of Chicago,米国,4,2,0,2,0,0,0,79
+110,kansas,University of Kansas,米国,4,3,0,1,0,0,0,58
+110,oxford,University of Oxford,英国,4,1,0,1,2,0,0,136
+110,wisconsin_madison,University of Wisconsin–Madison,米国,4,2,0,0,1,1,0,79
+110,university_zurich,Universität Zürich,スイス,4,2,0,1,0,1,0,79
+110,westminster_art,Westminster School of Art,英国,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,chase_school,William Merritt Chase School,米国,4,0,0,4,0,0,0,圏外（卒業・修了の計上なし）
+110,stuttgart_kunstgewerbe,"Württembergische Staatliche Kunstgewerbeschule, Stuttgart",ドイツ,4,1,0,3,0,0,0,136
+110,geneva_beauxarts,"École des Beaux-Arts, Genève",スイス,4,0,0,3,0,1,0,圏外（卒業・修了の計上なし）
+110,tama_art,多摩美術大学,日本,4,4,0,0,0,0,0,40
+110,waseda,早稲田大学,日本,4,4,0,0,0,0,0,40
+110,utokyo,東京大学,日本,4,3,0,0,0,0,1,58
+110,musashino_art_university,武蔵野美術大学,日本,4,4,0,0,0,0,0,40
+146,san_carlos_mexico,"Academy of Fine Arts (San Carlos), Mexico",メキシコ,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,berlin_academy,"Akademie der Künste, Berlin",ドイツ,3,0,0,2,0,1,0,圏外（卒業・修了の計上なし）
+146,prague_fine_arts,"Akademie der bildenden Künste, Prag",チェコ・チェコスロバキア,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,american_university_beirut,American University of Beirut,レバノン,3,3,0,0,0,0,0,58
+146,cincinnati_art_academy,Art Academy of Cincinnati,米国,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,brighton_art,Brighton School of Art,英国,3,2,0,1,0,0,0,79
+146,brooklyn,Brooklyn College,米国,3,1,0,2,0,0,0,136
+146,city_college_new_york,City College of New York (CUNY),米国,3,2,0,0,0,1,0,79
+146,corcoran,Corcoran School of Art,米国,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,domus_academy,"Domus Academy, Milano",イタリア,3,2,0,0,1,0,0,79
+146,rio_escola_nacional_belas_artes,"Escola Nacional de Belas Artes, Rio de Janeiro",ブラジル,3,2,0,1,0,0,0,79
+146,san_fernando,"Escuela de Bellas Artes de San Fernando, Madrid",スペイン,3,0,0,2,0,1,0,圏外（卒業・修了の計上なし）
+146,svomas_moscow,"Free State Art Studios (SVOMAS), Moscow",ロシア・ソ連,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,georgetown,Georgetown University,米国,3,2,0,1,0,0,0,79
+146,bern_gewerbeschule,Gewerbeschule Bern,スイス,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,vienna_graphische,"Graphische Lehr- und Versuchsanstalt, Wien",オーストリア,3,0,0,2,1,0,0,圏外（卒業・修了の計上なし）
+146,hans_hofmann_school,Hans Hofmann School of Fine Arts,米国,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,heatherleys,Heatherley’s School of Art,英国,3,1,0,2,0,0,0,136
+146,berlin_hdk,Hochschule der Künste Berlin,ドイツ,3,1,0,2,0,0,0,136
+146,utrecht_school_arts,Hogeschool voor de Kunsten Utrecht,オランダ,3,2,0,1,0,0,0,79
+146,hopkins_art,Hopkins Institute of Art,米国,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,hunter,Hunter College,米国,3,2,0,0,1,0,0,79
+146,indiana_bloomington,Indiana University Bloomington,米国,3,2,0,0,0,1,0,79
+146,budapest_iparmuveszeti,"Iparművészeti Iskola, Budapest",ハンガリー,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,charlottenburg_kunstgewerbe,Kunstgewerbe- und Handwerkerschule Berlin-Charlottenburg,ドイツ,3,1,0,2,0,0,0,136
+146,dresden_kunstgewerbe,Kunstgewerbeschule Dresden,ドイツ,3,0,0,2,1,0,0,圏外（卒業・修了の計上なし）
+146,cologne_kunstgewerbe,Kunstgewerbeschule Köln,ドイツ,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,karlsruhe_kunstschule,Kunstschule Karlsruhe,ドイツ,3,0,0,2,1,0,0,圏外（卒業・修了の計上なし）
+146,stuttgart_academy,"Königliche Akademie der bildenden Künste, Stuttgart",ドイツ,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,london_college_furniture,"London College of Furniture, City of London Polytechnic（1992年にLondon Guildhall University）",英国,3,1,0,2,0,0,0,136
+146,northwestern,Northwestern University,米国,3,0,0,2,1,0,0,圏外（卒業・修了の計上なし）
+146,oberlin,Oberlin College,米国,3,1,0,2,0,0,0,136
+146,penn_state,Pennsylvania State University,米国,3,2,0,0,1,0,0,79
+146,warsaw_technology,Politechnika Warszawska,ポーランド,3,1,0,1,1,0,0,136
+146,regent_street_polytechnic,Regent Street Polytechnic,英国,3,0,0,1,0,2,0,圏外（卒業・修了の計上なし）
+146,amsterdam_rijksnormaalschool,"Rijksnormaalschool voor teekenonderwijzers, Amsterdam",オランダ,3,1,0,2,0,0,0,136
+146,rit,Rochester Institute of Technology,米国,3,1,0,2,0,0,0,136
+146,san_francisco_state_college,San Francisco State College,米国,3,0,0,1,0,2,0,圏外（卒業・修了の計上なし）
+146,oslo_shks_historical,"Statens håndverks- og kunstindustriskole, Oslo（統合前）",ノルウェー,3,1,0,1,0,1,0,136
+146,stroganov,Stroganov Industrial Art School,ロシア・ソ連,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,helsinki_technology,Suomen Teknillinen Korkeakoulu（Helsinki University of Technology）,フィンランド,3,2,0,1,0,0,0,79
+146,illinois_urbana,"University of Illinois, Champaign-Urbana",米国,3,3,0,0,0,0,0,58
+146,jena,University of Jena,ドイツ,3,2,0,0,0,1,0,79
+146,university_liverpool,University of Liverpool,英国,3,1,0,2,0,0,0,136
+146,university_london_college_unspecified,University of London（構成校不明）,英国,3,2,1,0,0,0,0,79
+146,maryland,University of Maryland,米国,3,2,0,0,0,1,0,79
+146,university_minnesota,University of Minnesota,米国,3,1,0,2,0,0,0,136
+146,university_new_mexico,University of New Mexico,米国,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,unc_chapel_hill,"University of North Carolina, Chapel Hill",米国,3,2,0,1,0,0,0,79
+146,vienna_university,Universität Wien,オーストリア,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,ljubljana_university,Univerza v Ljubljani,スロベニア,3,2,0,0,1,0,0,79
+146,washington_stl,"Washington University, St. Louis",米国,3,1,0,0,1,1,0,136
+146,west_surrey_college_art_design,"West Surrey College of Art and Design, Farnham",英国,3,3,0,0,0,0,0,58
+146,hanau_zeichenakademie,Zeichenakademie Hanau,ドイツ,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,paul_colin,"École Paul Colin, Paris",フランス,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,lyon_beauxarts,École des Beaux-Arts de Lyon,フランス,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,nancy_beaux_arts,École des Beaux-Arts de Nancy,フランス,3,0,0,3,0,0,0,圏外（卒業・修了の計上なし）
+146,tokyo_bijutsu,東京美術学校,日本,3,1,0,0,1,1,0,136
+146,musashino_junior,武蔵野美術短期大学,日本,3,2,0,0,1,0,0,79
+146,university_tsukuba,筑波大学,日本,3,3,0,0,0,0,0,58
+146,kanazawa_arts,金沢美術工芸大学,日本,3,2,0,0,1,0,0,79
+207,san_alejandro,"Academia de San Alejandro, Havana",キューバ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,academie_moderne,"Académie Moderne, Paris",フランス,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,florence_accademia,Accademia di Belle Arti di Firenze,イタリア,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,rome_accademia_belle_arti,Accademia di Belle Arti di Roma,イタリア,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,bologna_finearts,"Accademia di Belle Arti, Bologna",イタリア,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,aki_enschede,"Akademie voor Kunst en Industrie (AKI), Enschede",オランダ,2,1,0,1,0,0,0,136
+207,american_university,American University,米国,2,1,0,0,1,0,0,136
+207,arizona_state,Arizona State College / Arizona State University,米国,2,2,0,0,0,0,0,79
+207,atelier_17,Atelier 17,フランス,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,bard_college,Bard College,米国,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,barnard_college,Barnard College,米国,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,birmingham_college_art,Birmingham College of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,bournemouth_poole_art,Bournemouth and Poole College of Art and Design,英国,2,1,0,1,0,0,0,136
+207,bow_bromley_evening,Bow and Bromley Evening Institute,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,bradford_art,Bradford Regional Art School,英国,2,1,0,1,0,0,0,136
+207,brunel_university,"Brunel University, London",英国,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,budapest_university_moholy_unresolved,Budapest University（Moholy-Nagy資料表記・歴史名照合待ち）,ハンガリー,2,0,0,0,0,2,0,圏外（卒業・修了の計上なし）
+207,calarts,California Institute of the Arts,米国,2,1,0,1,0,0,0,136
+207,california_school_design_sf,"California School of Design, San Francisco",米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,carnegie_technology,Carnegie Institute of Technology,米国,2,1,0,0,1,0,0,136
+207,camondo,Centre d’art et de techniques（École Camondoの旧称）,フランス,2,1,0,1,0,0,0,136
+207,chicago_academy_fine_arts,Chicago Academy of Fine Arts,米国,2,1,0,1,0,0,0,136
+207,pacific,College of the Pacific,米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,croydon_college_art,Croydon College of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,dalhousie_university,Dalhousie University,カナダ,2,2,0,0,0,0,0,79
+207,danish_design_school,Danish Design School,デンマーク,2,1,0,0,0,0,1,136
+207,dartmouth,Dartmouth College,米国,2,1,0,1,0,0,0,136
+207,designskolen_kolding,Designskolen Kolding,デンマーク,2,2,0,0,0,0,0,79
+207,ealing,Ealing School of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,barcelona_arch,Escola Superior d’Arquitectura de Barcelona,スペイン,2,1,0,0,1,0,0,136
+207,prilidiano_pueyrredon,Escuela Nacional de Bellas Artes Prilidiano Pueyrredón,アルゼンチン,2,1,0,1,0,0,0,136
+207,manuel_belgrano_arts,Escuela de Bellas Artes Manuel Belgrano,アルゼンチン,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,san_carlos_valencia,Escuela de Bellas Artes de San Carlos de Valencia,スペイン,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,sofia_arts,"Fine Arts Academy, Sofia",ブルガリア,2,1,0,1,0,0,0,136
+207,finnish_art_society,"Finnish Art Society’s Drawing School, Helsinki",フィンランド,2,1,0,1,0,0,0,136
+207,florida_am_university,Florida A&M University,米国,2,1,0,1,0,0,0,136
+207,florida_state_university,Florida State University,米国,2,2,0,0,0,0,0,79
+207,fullerton_junior_college,Fullerton Junior College,米国,2,1,0,1,0,0,0,136
+207,george_washington_univ,George Washington University,米国,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,hamburg_gewerbeschule,Gewerbeschule Hamburg,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,grand_central_art,"Grand Central School of Art, New York",米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,knirr_private,Heinrich Knirr private drawing school,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,strehblow,Heinrich Strehblow School of Fine Arts,オーストリア,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,hfg_karlsruhe,Hochschule für Gestaltung Karlsruhe,ドイツ,2,1,0,1,0,0,0,136
+207,hfg_offenbach,Hochschule für Gestaltung Offenbach,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,dresden_werkkunst_postwar,Hochschule für Werkkunst Dresden,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,universitaet_angewandte_wien,Hochschule für angewandte Kunst in Wien / Universität für angewandte Kunst Wien,オーストリア,2,1,0,1,0,0,0,136
+207,hfbk_hamburg,Hochschule für bildende Künste Hamburg,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,isia_monza,ISIA Monza,イタリア,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,iowa_state,Iowa State College,米国,2,1,0,1,0,0,0,136
+207,venice_isa_design,"Istituto Statale d’Arte, Corso Superiore di Disegno Industriale, Venezia",イタリア,2,1,0,1,0,0,0,136
+207,johns_hopkins,Johns Hopkins University,米国,2,2,0,0,0,0,0,79
+207,kcai,Kansas City Art Institute,米国,2,1,0,1,0,0,0,136
+207,kazan_art_school,Kazan School of Art,ロシア・ソ連,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,kcl,King’s College London,英国,2,2,0,0,0,0,0,79
+207,royal_academy_hague,"Koninklijke Academie van Beeldende Kunsten, Den Haag",オランダ,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,den_bosch_kunstschool,"Koninklijke School van Nuttige en Beeldende Kunsten, Den Bosch",オランダ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,stockholm_royal_finearts,"Konsthögskolan, Stockholm",スウェーデン,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,kth,"Kungliga Tekniska högskolan, Stockholm",スウェーデン,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,kassel_kunstakademie_historical,Kunstakademie Kassel,ドイツ,2,1,0,1,0,0,0,136
+207,dusseldorf_kunstgewerbe,Kunstgewerbeschule Düsseldorf,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,hannover_kunstgewerbe,Kunstgewerbeschule Hannover,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,mainz_kunstgewerbe,Kunstgewerbeschule Mainz,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,utrecht_kunstindustrieel,"Kunstindustrieel Onderwijs, Utrecht（原資料表記）",オランダ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,university_copenhagen,Københavns Universitet,デンマーク,2,1,0,0,0,1,0,136
+207,hamburg_landeskunstschule,Landeskunstschule Hamburg,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,layton_school_art,Layton School of Art,米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,debschitz,Lehr- und Versuchsateliers für angewandte und freie Kunst（Debschitz-Schule）,ドイツ,2,1,0,1,0,0,0,136
+207,london_school_art,London School of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,mica,Maryland Institute College of Art,米国,2,1,0,0,0,1,0,136
+207,mcgill,McGill University,カナダ,2,1,0,1,0,0,0,136
+207,moscow_university,Moscow University,ロシア・ソ連,2,1,0,1,0,0,0,136
+207,antwerp_higher_arts,"Nationaal Hoger Instituut voor Schone Kunsten, Antwerpen",ベルギー,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,national_art_school_east_sydney_historical,National Art School at East Sydney Technical College,オーストラリア,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,national_university_singapore,National University of Singapore,シンガポール,2,2,0,0,0,0,0,79
+207,newark_fine_industrial_art,Newark School of Fine and Industrial Art,米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,north_carolina_state,North Carolina State University,米国,2,1,0,0,1,0,0,136
+207,nottingham_art,Nottingham School of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,ohio_state,Ohio State University,米国,2,2,0,0,0,0,0,79
+207,ohio_university,Ohio University,米国,2,1,0,0,0,1,0,136
+207,oklahoma_state,Oklahoma Agricultural and Mechanical College（現Oklahoma State University）,米国,2,2,0,0,0,0,0,79
+207,oregon_state_university,Oregon State University,米国,2,2,0,0,0,0,0,79
+207,wroclaw_technical,Politechnika Wrocławska,ポーランド,2,1,0,1,0,0,0,136
+207,puc_chile,Pontificia Universidad Católica de Chile,チリ,2,2,0,0,0,0,0,79
+207,reed_college,Reed College,米国,2,1,0,0,0,1,0,136
+207,reimann_london,"Reimann School, London",英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,rensselaer_polytechnic,Rensselaer Polytechnic Institute,米国,2,2,0,0,0,0,0,79
+207,riga_polytechnic,Riga Polytechnical Institute（当時Moscowへ移転）,ラトビア／ロシア,2,1,0,1,0,0,0,136
+207,amsterdam_rijksschool_kunstnijverheid,"Rijksschool voor Kunstnijverheid, Amsterdam",オランダ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,henri_school,Robert Henri School of Art,米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,rutgers,Rutgers University,米国,2,1,0,0,1,0,0,136
+207,salford_art,Salford School of Art,英国,2,1,0,1,0,0,0,136
+207,san_diego_state,San Diego State University（資料表記）,米国,2,1,0,1,0,0,0,136
+207,sfai,San Francisco Art Institute,米国,2,1,0,0,1,0,0,136
+207,smith,Smith College,米国,2,2,0,0,0,0,0,79
+207,spring_garden_institute,Spring Garden Institute,米国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,poznan_arts,State Higher School of Plastic Arts in Poznań,ポーランド,2,1,0,1,0,0,0,136
+207,university_zagreb,Sveučilište u Zagrebu,クロアチア,2,1,0,0,0,1,0,136
+207,teachers_college_columbia,"Teachers College, Columbia University",米国,2,1,0,1,0,0,0,136
+207,budapest_technical,Technical University of Budapest,ハンガリー,2,1,0,0,1,0,0,136
+207,stuttgart_technical,Technische Hochschule Stuttgart,ドイツ,2,1,0,1,0,0,0,136
+207,trinity_college_dublin,Trinity College Dublin,アイルランド,2,1,0,1,0,0,0,136
+207,twickenham_college_technology,Twickenham College of Technology,英国,2,1,0,1,0,0,0,136
+207,complutense_madrid,Universidad Complutense de Madrid,スペイン,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,unam,Universidad Nacional Autónoma de México,メキシコ,2,2,0,0,0,0,0,79
+207,university_arkansas,University of Arkansas,米国,2,1,0,1,0,0,0,136
+207,university_bridgeport,University of Bridgeport,米国,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,university_british_columbia,University of British Columbia,カナダ,2,1,0,0,1,0,0,136
+207,buffalo,University of Buffalo,米国,2,2,0,0,0,0,0,79
+207,uc_san_diego,"University of California, San Diego",米国,2,2,0,0,0,0,0,79
+207,university_cape_town,University of Cape Town,南アフリカ,2,2,0,0,0,0,0,79
+207,university_colorado_boulder,University of Colorado Boulder,米国,2,1,0,0,1,0,0,136
+207,budapest_fine_arts,University of Fine Arts in Budapest（Cooper Hewitt資料表記）,ハンガリー,2,1,0,1,0,0,0,136
+207,glasgow_university,University of Glasgow,英国,2,0,0,1,1,0,0,圏外（卒業・修了の計上なし）
+207,university_of_iowa,University of Iowa,米国,2,2,0,0,0,0,0,79
+207,notre_dame,University of Notre Dame,米国,2,2,0,0,0,0,0,79
+207,rome_university,University of Rome,イタリア,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,turin_university,University of Turin,イタリア,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,wisconsin_campus_unspecified,University of Wisconsin（キャンパス不明）,米国,2,1,0,1,0,0,0,136
+207,ual,University of the Arts London,英国,2,0,2,0,0,0,0,圏外（卒業・修了の計上なし）
+207,genoa,Università degli Studi di Genova,イタリア,2,1,0,0,0,1,0,136
+207,heidelberg_university,Universität Heidelberg,ドイツ,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,watford_school_art,Watford School of Art,英国,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,wheaton_college_illinois,"Wheaton College, Illinois",米国,2,1,0,0,1,0,0,136
+207,geneva_arts_industriels,"École des Arts Industriels, Genève",スイス,2,0,0,1,0,1,0,圏外（卒業・修了の計上なし）
+207,bordeaux_beaux_arts,École des Beaux-Arts de Bordeaux,フランス,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,ecole_beaux_arts_toulouse,École des Beaux-Arts de Toulouse,フランス,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,ecole_ponts_chaussees,École des ponts et chaussées,フランス,2,1,0,1,0,0,0,136
+207,zvantseva_art,École d’art Zvantseva,ロシア・ソ連,2,0,0,2,0,0,0,圏外（卒業・修了の計上なし）
+207,ensad_paris,"École nationale supérieure des Arts Décoratifs, Paris",フランス,2,1,0,1,0,0,0,136
+207,ecole_speciale_architecture,"École spéciale d’architecture, Paris",フランス,2,0,0,0,2,0,0,圏外（卒業・修了の計上なし）
+207,esdi_paris,"École supérieure de design industriel (ESDI), Paris",フランス,2,2,0,0,0,0,0,79
+207,la_cambre,École supérieure des arts visuels de La Cambre,ベルギー,2,1,0,1,0,0,0,136
+207,czech_technical_prague,České vysoké učení technické v Praze,チェコ・チェコスロバキア,2,1,0,0,1,0,0,136
+207,chiba,千葉大学,日本,2,2,0,0,0,0,0,79
+207,keio,慶應義塾大学,日本,2,2,0,0,0,0,0,79
+207,bunka_fashion_college,文化服装学院,日本,2,2,0,0,0,0,0,79
+207,nihon_university,日本大学,日本,2,2,0,0,0,0,0,79
+207,tokyo_koto_kogei,東京高等工芸学校,日本,2,2,0,0,0,0,0,79
+346,aki_academy_enschede,"AKI Academy of Art & Design, Enschede",オランダ,1,1,0,0,0,0,0,136
+346,aalto,Aalto University,フィンランド,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,aarhus_teknikum,Aarhus Teknikum,デンマーク,1,1,0,0,0,0,0,136
+346,academia_francesc_gali,Academia Francesc Galí,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,academia_libre_buenos_aires_kosice,"Academia Libre, Buenos Aires（美術館表記）",アルゼンチン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,montevideo_arts_platschek,Academia de Arte de Montevideo（資料表記）,ウルグアイ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,minerva,"Academie Minerva, Groningen",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sint_joost_breda_historical,"Academie Sint Joost, Breda",オランダ,1,1,0,0,0,0,0,136
+346,bratislava_acad_fine_arts,"Academy of Fine Arts and Design, Bratislava",スロバキア,1,1,0,0,0,0,0,136
+346,berlin_fischer_fine_arts_unresolved,Academy of Fine Arts in Berlin（Fischer-Treyden資料表記）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,academie_carriere,Académie Carrière,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,humbert,Académie Humbert,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,la_palette,Académie La Palette,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,academie_matisse_paris,"Académie Matisse, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,grande_chaumiere_paris,"Académie de la Grande Chaumière, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,albertina,Accademia Albertina di Belle Arti,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,palermo_accademia_belle_arti,Accademia di Belle Arti di Palermo,イタリア,1,1,0,0,0,0,0,136
+346,willimann_berlin_academy_unresolved,Akademie Berlin（Alfred Willimann資料表記）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,akademie_de_schans,Akademie de Schans,オランダ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,renggli_munich_academy_unresolved,"Akademie der Künste, München（Renggli資料表記）",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,renggli_rome_academy_unresolved,"Akademie der Künste, Rom（Renggli資料表記）",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_academy_leni_unresolved,"Akademie der bildenden Künste, Berlin（Paul Leniの資料表記）",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_free_applied,Akademie für Freie und Angewandte Kunst Berlin,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,zagreb_academy_dramatic_art,"Akademija dramske umjetnosti, Zagreb",クロアチア,1,1,0,0,0,0,0,136
+346,ljubljana_arts,"Akademija likovnih umetnosti, Ljubljana",スロベニア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,alfred,Alfred University,米国,1,1,0,0,0,0,0,136
+346,american_art_school_ny_1950s,"American Art School, New York",米国,1,1,0,0,0,0,0,136
+346,american_artists_school,"American Artists School, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,american_television_institute_technology,"American Television Institute of Technology, Chicago",米国,1,1,0,0,0,0,0,136
+346,amherst_college,Amherst College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,amit_amal_rishon,"Amit-Amal, Rishon Lezion",イスラエル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,amsterdam_graphic_school,Amsterdamse Grafische School,オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,oslo_architecture_design_school,Arkitektur- og designhøgskolen i Oslo（AHO、資料表記）,ノルウェー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,torino_testas_grafica,Armando Testa指導の広告グラフィック学校（Torino、正式名未確認）,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,artcenter_europe,Art Center College of Design (Europe),スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kharkiv_art_school_historical,Art School in Char’kov（展覧会英語表記）,ウクライナ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,arthur_cope,Arthur Cope’s School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kokko_ateneum_unresolved,Ateneumin metallipuoli（Valto Kokko資料表記・正式校未同定）,フィンランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,athenaeum_lausanne,Athenaeum di Losanna,スイス,1,1,0,0,0,0,0,136
+346,athens_fine_arts,Athens School of Fine Arts,ギリシャ,1,1,0,0,0,0,0,136
+346,auckland_university_technology,Auckland University of Technology,ニュージーランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,babson_institute,Babson Institute,米国,1,1,0,0,0,0,0,136
+346,bard_grad_center,Bard Graduate Center,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,barnfield_college,"Barnfield College, Luton",英国,1,1,0,0,0,0,0,136
+346,bath_academy,Bath Academy of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,batley_school_art,Batley School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bennett_millbrook,"Bennett School, Millbrook（上級2年課程）",米国,1,1,0,0,0,0,0,136
+346,bennington,Bennington College,米国,1,1,0,0,0,0,0,136
+346,bergen_kunsthandverk_historical,Bergens Kunsthåndverksskole,ノルウェー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_finearts_richter,Berlin Fine Arts Academy（1908年資料表記）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_women_art,Berliner Künstlerinnenschule,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bethel_kansas,"Bethel College, Kansas",米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,bethnal_green_mens,Bethnal Green Men’s Institute,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bizzie_hoeyers_skole,Bizzie Høyers Skole,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,blackpool_fylde_college,Blackpool and The Fylde College,英国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,blocherer,"Blocherer School, Munich",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,boston_arch_club,Boston Architectural Club,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,boston_state,Boston State College,米国,1,1,0,0,0,0,0,136
+346,boston_university,Boston University,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,bowdoin_college,Bowdoin College,米国,1,1,0,0,0,0,0,136
+346,brook_green_drawing,Brook Green School of Drawing,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,brooklyn_art_guild,Brooklyn Art Guild,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,brooklyn_museum_art_school,Brooklyn Museum Art School,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,brooks_photography,Brooks Institute of Photography,米国,1,1,0,0,0,0,0,136
+346,bucks_college_historical,"Bucks College, High Wycombe（資料表記）",英国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,vienna_bundeslehranstalt_textil,"Bundeslehranstalt für Textilindustrie, Wien",オーストリア,1,1,0,0,0,0,0,136
+346,byam_shaw_art,Byam Shaw School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,california_arts_crafts,California College of Arts and Crafts,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,california_school_arts_shortlived,California School of the Arts（1950年代短命校）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cal_state_fullerton,"California State College at Fullerton（資料ではCalifornia State University, Fullerton）",米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,cal_state_la,"California State College, Los Angeles",米国,1,1,0,0,0,0,0,136
+346,cal_poly_pomona,"California State Polytechnic College, Kellogg Campus / California State Polytechnic University, Pomona",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,csu_sacramento,"California State University, Sacramento",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,calvin_college,Calvin College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cambridge_art,Cambridge School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,capellagarden,Capellagården,スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,carleton_university,Carleton University,カナダ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,carmini_art,"Carmini School of Art, Venice",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,center_creative_studies_detroit,"Center for Creative Studies, Detroit",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,westminster_vardimon_unresolved,Central London Polytechnic / University of Westminster（当時校名照合中）,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,central_school_arts_crafts,Central School of Arts and Crafts,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,stieglitz_technical_drawing_historical,"Central School of Technical Drawing of Baron Stieglitz, Saint Petersburg",ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cercle_paris,"Cercle International des Beaux-Arts, Paris",フランス,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,lausanne_cui,"Champ Universitaire Italien, Lausanne（所属制度追加照合）",スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,chelsea_polytechnic,Chelsea Polytechnic,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,chicago_teachers,Chicago Teachers College,米国,1,1,0,0,0,0,0,136
+346,chiswick,Chiswick School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,city_college_san_francisco,City College of San Francisco,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,city_university_london,"City University, London",英国,1,1,0,0,0,0,0,136
+346,city_guilds_london,"City and Guilds School, Kennington",英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,claremont_graduate_school,Claremont Graduate School,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,clark_university,Clark University,米国,1,1,0,0,0,0,0,136
+346,clarkson_university,Clarkson University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cleveland,Cleveland Institute of Art,米国,1,1,0,0,0,0,0,136
+346,cleveland_arts_dohanos_unresolved,Cleveland School of Arts（Dohanos資料表記）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,colorado_state,Colorado State University,米国,1,1,0,0,0,0,0,136
+346,columbia_college_chicago,Columbia College Chicago,米国,1,1,0,0,0,0,0,136
+346,cnam_paris,"Conservatoire national des arts et métiers, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,courtauld_institute_art,Courtauld Institute of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cowles_school_boston,"Cowles School of Art, Boston",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,croydon_college,Croydon College,英国,1,1,0,0,0,0,0,136
+346,circulo_bellas_artes_madrid,"Círculo de Bellas Artes, Madrid",スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,munich_women_art,Damenakademie des Künstlerinnenvereins München,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,danish_jewellery_college_hansen_unresolved,Danish College of Jewellery and Silversmith（Hansen資料表記）,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,danmarks_ingeniorakademi_diam,Danmarks Ingeniørakademi (DIA-M),デンマーク,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,hague_uas,De Haagse Hogeschool／The Hague University of Applied Sciences,オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,den_grafiske_hojskole,"Den Grafiske Højskole, København",デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,design_laboratory_nyc,"Design Laboratory School, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,jyske_kunstakademi,"Det Jyske Kunstakademi, Aarhus",デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,detroit_art_institute_johnson,Detroit Art Institute（Ray Johnson資料表記）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,deutsche_hochschule_politik,"Deutsche Hochschule für Politik, Berlin",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,donghua_university,Donghua University,中国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,douglas_art,Douglas School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,drexel_institute_asi,"Drexel Institute of Art, Science and Industry",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,drexel_university,Drexel University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,dundee_art,Dundee School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,eina_barcelona,"EINA, escola de disseny",スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,epfl_ecal_lab_cas,EPFL+ECAL Lab（共同CAS）,スイス,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,east_ham_technical_college,East Ham Technical College,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,educational_alliance_art_school,"Educational Alliance Art School, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,elisava_barcelona,"Escola Elisava, Barcelona",スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,esad_caldas_da_rainha,Escola Superior de Arte e Design das Caldas da Rainha,ポルトガル,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,elisava,Escola de Disseny Elisava,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,barcelona_artes_oficios_padros_unresolved,"Escola d’Arts i Oficis, Barcelona（Padrósの資料表記）",スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,escuela_nacional_artes_graficas,Escuela Nacional de Artes Gráficas,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,santiago_tejada_arts,"Escuela Provincial de Artes Plásticas José Joaquín Tejada, Santiago de Cuba",キューバ,1,1,0,0,0,0,0,136
+346,madrid_etsam_historical,Escuela Superior de Arquitectura de Madrid（1953年当時）,スペイン,1,1,0,0,0,0,0,136
+346,ernesto_de_la_carcova,Escuela Superior de Bellas Artes Ernesto de la Cárcova,アルゼンチン,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,seville_santa_isabel,Escuela Superior de Bellas Artes de Santa Isabel de Hungría,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hannover_design_leufert,Escuela Superior de Diseño de Hannover（Leufert資料表記）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,escuela_artes_aplicadas_mexico,"Escuela de Artes Aplicadas, México",メキシコ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,cristobal_rojas_caracas,"Escuela de Artes Plásticas Cristóbal Rojas, Caracas",ベネズエラ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,valencia_arts_oficios,Escuela de Artes y Oficios de Valencia,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,fachhochschule_kiel,Fachhochschule Kiel（Muthesiusのデザイン部門）,ドイツ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,wien_holzindustrie_prutscher,Fachschule für Holzindustrie（Prutscher資料表記）,オーストリア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,teplitz_tonindustrie,"Fachschule für Tonindustrie und verwandte Gewerbe, Teplitz-Schönau",チェコ・チェコスロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sao_paulo_school_fine_arts,Faculdade de Belas Artes de São Paulo,ブラジル,1,1,0,0,0,0,0,136
+346,falmouth_college_art_design,Falmouth College of Art and Design,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,fit,Fashion Institute of Technology,米国,1,1,0,0,0,0,0,136
+346,paris_leger_refn,Fernand Légerの絵画学校（Refn資料表記）,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ferrer_center,"Ferrer Center, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,fondazione_davide_campari,"Fondazione Davide Campari, Milano",イタリア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,fontys_academy_tilburg,"Fontys Academy, Tilburg（本人CV表記）",オランダ,1,1,0,0,0,0,0,136
+346,calderon_school_animal_painting,Frank Calderon’s School of Animal Painting,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,staedelschule_frankfurt,Frankfurter Kunstschule（Städelschule）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,franklin_marshall_college,Franklin & Marshall College,米国,1,1,0,0,0,0,0,136
+346,franklin_professional_arts,"Franklin School of Professional Arts, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,frankfurt_frauenbildungsverein,Frauenbildungsverein Frankfurt am Main,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,budapest_free_art_bortnyik,"Free school of art, Budapest（Rippl-Rónai・Kernstok・Vaszary）",ハンガリー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,freie_universitat_berlin,Freie Universität Berlin,ドイツ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,berlin_friedrich_wilhelms_universitaet,Friedrich-Wilhelms-Universität zu Berlin,ドイツ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,georgia_tech,Georgia Institute of Technology,米国,1,1,0,0,0,0,0,136
+346,georgia_state,Georgia State University,米国,1,1,0,0,0,0,0,136
+346,elbing_gewerbeschule,Gewerbeschule Elbing,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,leerdam_glass_school,Glasschool Leerdam,オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,leerdam_glasschool,"Glasschool, Glasfabriek Leerdam",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,koerner_graphic_vienna_unresolved,"Graphic Academy of Applied Art, Vienna（Koerner資料表記）",オーストリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,gravesend_art,Gravesend Technical College and School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,orrefors_gravorskolan,Gravörskolan i Orrefors,スウェーデン,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,grosvenor,"Grosvenor School of Modern Art, London",英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,weimar_grossherzog_kunstgewerbe,Großherzogliche Kunstgewerbeschule Weimar,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,weimar_grossherzog_zeichenschule,"Großherzogliche Zeichenschule, Weimar",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,guildford_school_art,Guildford School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hammersmith_further_education,Hammersmith College of Further Education,英国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,hammersmith_art,Hammersmith School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hammersmith_building_arts_crafts,Hammersmith School of Building Arts & Crafts（Whitaker年譜表記）,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,handarbetets_vanner,Handarbetets Vänners skola,スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,stockholm_school_of_economics,Handelshögskolan i Stockholm,スウェーデン,1,1,0,0,0,0,0,136
+346,altona_handwerk_kunst,Handwerker- und Kunstgewerbeschule Altona,ドイツ,1,1,0,0,0,0,0,136
+346,hofmann_school_munich,"Hans Hofmann School, Munich（渡米前）",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,harold_washington_college,Harold Washington Community College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,harrow_art,Harrow School of Art,英国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,haslev_technical_college,Haslev Technical College,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,haverford_college,Haverford College,米国,1,1,0,0,0,0,0,136
+346,haystack_mountain_crafts,Haystack Mountain School of Crafts,米国,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,hebrew_university_jerusalem,Hebrew University of Jerusalem,イスラエル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hellerup_seminarium,Hellerup Seminarium,デンマーク,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,high_wycombe_school_art,High Wycombe School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,high_wycombe_technical,High Wycombe Technical Institute,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vienna_applied_arts_1940s_wollner,Hochschule für Angewandte Kunst in Wien（1940年代の資料表記）,オーストリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,dresden_hfbk_postwar,Hochschule für Bildende Künste Dresden（戦後）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hollosy_munich_school,"Hollósy-Schule, München",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hongik_university,Hongik University,韓国,1,1,0,0,0,0,0,136
+346,hospitalfield,"Hospitalfield Art Institute, Arbroath",英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hull_college_art,Hull College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,iit_kanpur,Indian Institute of Technology Kanpur,インド,1,1,0,0,0,0,0,136
+346,indiana_technical_college,Indiana Technical College,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,lausanne_engineering,Ingenieurschule Lausanne（当時の正式所属の追加照合待ち）,スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,itb_bandung,Institut Teknologi Bandung,インドネシア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,institute_american_indian_arts,Institute of American Indian Arts,米国,1,1,0,0,0,0,0,136
+346,instituto_politecnico_san_german,Instituto Politécnico de San Germán,プエルトリコ,1,1,0,0,0,0,0,136
+346,teatro_colon_isa,Instituto Superior de Arte del Teatro Colón,アルゼンチン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,iac_masp,"Instituto de Arte Contemporânea, MASP",ブラジル,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,ion_andreescu_cluj,"Institutul de Arte Plastice Ion Andreescu, Cluj",ルーマニア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,idi_ivrea,Interaction Design Institute Ivrea,イタリア,1,1,0,0,0,0,0,136
+346,grunewald_malarskola,"Isaac Grünewalds Målarskola, Stockholm",スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,douglas_school_of_art,"Isle of Man School of Art, Douglas",英国,1,1,0,0,0,0,0,136
+346,rome_istituto_statale_arte,"Istituto Statale d’Arte, Roma",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vigliardi_paravia,"Istituto di Arti Grafiche Vigliardi Paravia, Torino",イタリア,1,1,0,0,0,0,0,136
+346,faenza_ballardini,"Istituto d’Arte Ballardini, Faenza",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,parma_istituto_arte_historical,Istituto d’Arte di Parma（当時の機関）,イタリア,1,1,0,0,0,0,0,136
+346,venice_istituto_arte_early,Istituto d’Arte di Venezia（Flavio Poli在籍期）,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,istituto_arte_volterra,Istituto d’Arte di Volterra,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,faenza_istituto_ceramica,"Istituto d’Arte per la Ceramica, Faenza",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ivy_professional_art,Ivy School of Professional Art,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,goethe_university,Johann Wolfgang Goethe-Universität Frankfurt am Main,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,john_f_kennedy_university,John F. Kennedy University,米国,1,1,0,0,0,0,0,136
+346,john_hassall_correspondence,John Hassall Correspondence School,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,juilliard_school_music,Juilliard School of Music,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,karlsruhe_delaunay_unresolved,Karlsruhe美術教育（Sonia Delaunay・正式機関未確定）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kellogg_community_college,Kellogg Community College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kent,Kent State University,米国,1,1,0,0,0,0,0,136
+346,kenyon_college,Kenyon College,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,kingston_college_art_historical,Kingston College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kolding_design_school,Kolding Kunsthåndværkerskole (Designskolen Kolding),デンマーク,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,den_bosch_kakv,"Koninklijke Academie voor Kunst en Vormgeving, Den Bosch",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kask_gent,"Koninklijke Academie voor Schone Kunsten, Gent",ベルギー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,breda_military,"Koninklijke Militaire Academie, Breda",オランダ,1,1,0,0,0,0,0,136
+346,finnish_goldsmith_school,Kultaseppäkoulu / Finnish Goldsmith School,フィンランド,1,1,0,0,0,0,0,136
+346,bremen_kunstgewerbe,Kunstgewerbeschule Bremen,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,frankfurt_kunstgewerbe,Kunstgewerbeschule Frankfurt am Main,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,graz_kunstgewerbe,Kunstgewerbeschule Graz,オーストリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,koenigsberg_kunstgewerbe,Kunstgewerbeschule Königsberg,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,linz_kunstgewerbe,Kunstgewerbeschule Linz,オーストリア,1,1,0,0,0,0,0,136
+346,nuremberg_kunstgewerbe,Kunstgewerbeschule Nürnberg,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,rostock_kunstgewerbeschule,Kunstgewerbeschule Rostock,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,strasbourg_kunstgewerbe,"Kunstgewerbeschule, Straßburg",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bonndorf_kunsthandwerkerschule,Kunsthandwerkerschule Bonndorf,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,weissensee_art_school,Kunsthochschule Berlin-Weißensee,ドイツ,1,1,0,0,0,0,0,136
+346,bergen_academy_art_design,Kunsthøgskolen i Bergen / Bergen Academy of Art and Design,ノルウェー,1,1,0,0,0,0,0,136
+346,finnur_johann_evening_school,Kvöldskóli Finns Jónssonar og Jóhanns Briem,アイスランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kyiv_academy_plastic_arts,Kyiv Institute of Plastic Arts（旧Ukrainian Academy of Arts）,ウクライナ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_bauakademie,Königliche Bauakademie Berlin,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,koenigsberg_kunstakademie,Königsberger Kunstakademie,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lahti_taideteollinen,Lahden taideteollinen oppilaitos,フィンランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lambeth_art,Lambeth School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lancaster_college_art,Lancaster College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,laney_trade,"Laney Trade School, Oakland",米国,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,leeds_school_art,Leeds School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,frankfurt_oder_teacher,Lehrerbildungsanstalt Frankfurt/Oder,ドイツ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,leicester_college_art,Leicester College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,leidse_instrumentmakers,Leidse Instrumentmakers School,オランダ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,leningrad_higher_art_industry,Leningrad Higher School of Art and Industry,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,leonardo_da_vinci_art_ny,"Leonardo da Vinci Art School, New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lette_berlin,Lettehaus Berlin,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,florence_liceo_artistico_marasco,Liceo Artistico di Firenze（資料表記）,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,liceu_literario_portugues_rio,"Liceu Literário Português, Rio de Janeiro",ブラジル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,liceu_artes_oficios_sao_paulo,Liceu de Artes e Ofícios de São Paulo,ブラジル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,liceu_artes_oficios_rio,Liceu de Artes e Ofícios do Rio de Janeiro,ブラジル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,liverpool_john_moores,Liverpool John Moores University,英国,1,1,0,0,0,0,0,136
+346,liverpool_school_art_historical,Liverpool School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,london_college_fashion,London College of Fashion,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lcc_photoengraving_lithography,London County Council School of Photo-engraving and Lithography,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,london_metropolitan_university,London Metropolitan University,英国,1,1,0,0,0,0,0,136
+346,london_school_film_technique,London School of Film Technique,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,london_south_bank,London South Bank University,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,gee_london_art_unresolved,London美術学校（Peter Gee・正式機関未確定）,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,loughborough_college,Loughborough College,英国,1,1,0,0,0,0,0,136
+346,loughborough_school_art,Loughborough School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,louisiana_state_university,Louisiana State University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,louisiana_tech_university,Louisiana Tech University,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,lowell_textile_school,Lowell Textile School,米国,1,1,0,0,0,0,0,136
+346,loyola_marymount,Loyola Marymount University,米国,1,1,0,0,0,0,0,136
+346,giessen_ludwigs_university,Ludwigs-Universität Gießen,ドイツ,1,1,0,0,0,0,0,136
+346,karlsruhe_malerinnenschule,Malerinnenschule Karlsruhe,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,malmo_university,Malmö universitet,スウェーデン,1,1,0,0,0,0,0,136
+346,malvern_school_art,Malvern School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,manchester_school_art_historical,Manchester School of Art（James Fittonの在籍当時）,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,manhattan_aviation_trades,Manhattan High School of Aviation Trades,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,massey_university,Massey University,ニュージーランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,master_institute_roerich,Master Institute of the Roerich Museum,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,medway_college_art,Medway College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,melbourne_technical_college,Melbourne Technical College,オーストラリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,merz_akademie,"Merz Akademie, Stuttgart",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,metropolitan_art_schools,Metropolitan Museum of Art Schools,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,miami_university_ohio,"Miami University, Ohio",米国,1,1,0,0,0,0,0,136
+346,michigan_state,Michigan State University,米国,1,1,0,0,0,0,0,136
+346,michigan_tech,Michigan Technological University,米国,1,1,0,0,0,0,0,136
+346,nicholas_military_engineering,"Mikołajewska Wojskowa Szkoła Inżynieryjna, Petersburg",ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,monash_university,Monash University,オーストラリア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,montclair_state_university,Montclair State College / Montclair State University（授与時の名称未確定）,米国,1,1,0,0,0,0,0,136
+346,moscow_architectural_institute,Moscow Architectural Institute,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,moscow_polygraphy_institute,Moscow Institute of Polygraphy,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,mount_holyoke,Mount Holyoke College,米国,1,1,0,0,0,0,0,136
+346,budapest_muhely,"Műhely, Budapest（Sándor Bortnyik）",ハンガリー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,nagybanya_free_school,Nagybányai szabadiskola,ハンガリー（現ルーマニア）,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,national_institute_design_india,"National Institute of Design, Ahmedabad",インド,1,1,0,0,0,0,0,136
+346,dresden_neue_schule_der_weg,"Neue Schule für Kunst: Der Weg, Dresden",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,new_england_school_of_law,New England School of Law,米国,1,1,0,0,0,0,0,136
+346,new_design_boston,"New School of Design, Boston",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,nyip,New York Institute of Photography,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,newcastle_polytechnic,Newcastle Polytechnic,英国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,nieuwe_kunstschool_amsterdam,"Nieuwe Kunstschool, Amsterdam",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,north_texas_state_university,North Texas State University（現 University of North Texas）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,northern_illinois_univ,Northern Illinois University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,norwich_art,Norwich School of Art and Design,英国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,norwich_arts_historical_congdon,Norwich University of the Arts（本人資料表記、授与当時校名要照合）,英国,1,1,0,0,0,0,0,136
+346,nottingham_trent,Nottingham Trent University,英国,1,1,0,0,0,0,0,136
+346,odense_technical_historical,Odense Technical University（公式略歴英訳、1944–47）,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,oklahoma_city_university,Oklahoma City University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,oslo_yrkesskole_historical,Oslo Yrkesskole（1961年分割前）,ノルウェー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,otis_art_institute_parsons,Otis Art Institute of Parsons School of Design,米国,1,1,0,0,0,0,0,136
+346,otte_skold_school,Otte Skölds målarskola,スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,pace_university,Pace University,米国,1,1,0,0,0,0,0,136
+346,penland,Penland School of Crafts,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,pennsylvania_state_college,Pennsylvania State College,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,peter_behrens_werkkunst,Peter-Behrens-Werkkunstschule Düsseldorf,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,paris_petite_ecole,"Petite École de dessin, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,philadelphia_college_art,Philadelphia College of Art（当時校）,米国,1,1,0,0,0,0,0,136
+346,piccolo_teatro_school,"Piccolo Teatro, Milano（学習先）",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,munich_polytechnic_unresolved,"Polytechnic College, Munich（正式校同定保留）",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,helsinki_polytechnic_institute_pre1908,"Polyteknillinen opisto, Helsinki",フィンランド,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,polyteknisk_laereanstalt,"Polyteknisk læreanstalt, Copenhagen",デンマーク,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,puc_sp,Pontifícia Universidade Católica de São Paulo,ブラジル,1,1,0,0,0,0,0,136
+346,principia,Principia College,米国,1,1,0,0,0,0,0,136
+346,anton_azbe,Private painting school of Anton Ažbe,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,radcliffe,Radcliffe College,米国,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,naples_belle_arti,"Reale Istituto di Belle Arti, Napoli",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,turin_accademia_albertina,"Regia Accademia Albertina, Torino",イタリア,1,1,0,0,0,0,0,136
+346,bologna_regia_scuola_ingegneri,"Regia Scuola di Applicazione per gli Ingegneri, Bologna",イタリア,1,1,0,0,0,0,0,136
+346,reichshochschule_angewandte_wien,"Reichshochschule für angewandte Kunst, Wien",オーストリア,1,1,0,0,0,0,0,136
+346,rheinisches_technikum_bingen,"Rheinisches Technikum, Bingen",ドイツ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,rice_institute,Rice Institute,米国,1,1,0,0,0,0,0,136
+346,rotter_ad_graphic_prague,"Rotterova škola reklamní grafiky, Praha",チェコ・チェコスロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,royal_agricultural_college,"Royal Agricultural College, Cirencester",英国,1,1,0,0,0,0,0,136
+346,royal_melbourne_technical,Royal Melbourne Technical College,オーストラリア,1,1,0,0,0,0,0,136
+346,rome_royal_architecture_girard_unresolved,"Royal School of Architecture, Rome（Girard資料表記）",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,svomas_tver,"SVOMAS, Tver（Free Art Studios）",ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,annenkov_st_petersburg_uni_unresolved,Saint Petersburgのuniversity（Annenkovの資料表記、正式名確認中）,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sandberg_instituut,Sandberg Instituut,オランダ,1,1,0,0,0,0,0,136
+346,santa_clara_university,Santa Clara University,米国,1,1,0,0,0,0,0,136
+346,santa_monica,Santa Monica City College,米国,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,sac_alfred_period,School for American Craftsmen（Alfred University所在期）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sac_rjking_unresolved,School for American Craftsmen（King資料表記・所在期未判定）,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,aarhus_arch,"School of Architecture, Aarhus",デンマーク,1,1,0,0,0,0,0,136
+346,warsaw_design,"School of Design, Warsaw",ポーランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,prague_graphic_school_liskova,"School of Graphic Arts, Prague（Lišková資料表記）",チェコ・チェコスロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,philadelphia_industrial_art_historical,"School of Industrial Art, Philadelphia（当時校）",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,olivet_industrial_design_paris_unresolved,School of Industrial Design in Paris（Jérôme Olivet公式略歴表記）,フランス,1,1,0,0,0,0,0,136
+346,detroit_society_crafts,School of the Detroit Society of Arts and Crafts,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,philadelphia_museum_art_school,School of the Philadelphia Museum of Art,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,haarlem_kunstnijverheid,"School voor Kunstnijverheid, Haarlem",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,schoonhoven_vocational_precious_metals,Schoonhoven vocational school (precious metals)（資料表記）,オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,scott_carbee,"Scott Carbee School of Art, Boston",米国,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,rome_architecture_school_1922,"Scuola di architettura, Roma（1922年資料表記）",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,crema_regione_lombardia_vocational,"Scuola di formazione professionale della Regione Lombardia, Crema",イタリア,1,1,0,0,0,0,0,136
+346,florence_scuola_architettura_1930s,"Scuola superiore di architettura, Firenze（1930年代）",イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,seoul_national,Seoul National University,韓国,1,1,0,0,0,0,0,136
+346,sheffield_city_polytechnic,Sheffield City Polytechnic,英国,1,1,0,0,0,0,0,136
+346,sheffield_hallam,Sheffield Hallam University,英国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,sint_lucas_gent_arch,"Sint-Lucasinstituut, Gent",ベルギー,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,skowhegan,Skowhegan School of Painting and Sculpture,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,skanska_malarskola,Skånska Målarskolan,スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,enschede_sociale_academie,"Sociale Academie, Enschede",オランダ,1,1,0,0,0,0,0,136
+346,polytechnische_gesellschaft_leipzig,Sonntags- und Abendgewerbeschule der Polytechnischen Gesellschaft Leipzig,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sophie_newcomb_college,Sophie Newcomb College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,southampton_school_art,Southampton School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,southwest_texas_state_teachers_college,Southwest Texas State Teachers College,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,st_albans_college_art,St Albans College of Art and Design,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,st_andrews_stirling_sasp,St Andrews/Stirling Graduate Programme in Philosophy（授与校の個別表記未確認）,英国,1,1,0,0,0,0,0,136
+346,stjohnswood,St John’s Wood School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,petersburg_univ_iliazd,St. Petersburg University（Iliazd資料表記）,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,st_xaviers_college_mumbai,"St. Xavier’s College, Mumbai",インド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,karlsruhe_staatliche_akademie,Staatliche Akademie der Bildenden Künste Karlsruhe（1959年）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,adbk_nuernberg,Staatliche Akademie der Bildenden Künste Nürnberg,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kaufbeuren_glas_schmuck,"Staatliche Berufsfachschule für Glas und Schmuck, Kaufbeuren/Neugablonz",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,zwiesel_glass,"Staatliche Fachschule für Glasindustrie, Zwiesel",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hadamar_glasfachschule,Staatliche Glasfachschule Hadamar,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,braunschweig_fine_arts,Staatliche Hochschule für Bildende Künste Braunschweig,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kassel_rambow_historical,"Staatliche Hochschule für Bildende Künste, Kassel（Rambow資料表記）",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,muenchberg_textilindustrie,"Staatliche Höhere Fachschule für Textilindustrie, Münchberg",ドイツ,1,1,0,0,0,0,0,136
+346,duesseldorf_kunstakademie,Staatliche Kunstakademie Düsseldorf,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,saarbruecken_kunst_handwerk,"Staatliche Schule für Kunst und Handwerk, Saarbrücken",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,graz_roch_applied_arts,"Staatliche Schule für angewandte Kunst, Graz（Roch資料表記）",オーストリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,kassel_werkakademie,Staatliche Werkakademie Kassel,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,brno_state_crafts,Staatsgewerbeschule Brünn,チェコ・チェコスロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,reichenberg_staatsgewerbeschule,Staatsgewerbeschule Reichenberg,チェコ・チェコスロバキア,1,0,0,0,0,0,1,圏外（卒業・修了の計上なし）
+346,gdansk_arts,State Higher School of Fine Arts in Gdańsk,ポーランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,belo_horizonte_escola_guignard_historic,"State School of Fine Arts, Parque Municipal de Belo Horizonte",ブラジル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,oslo_statens_art_craft,"Statens Håndverks- og Kunstindustriskole, Oslo",ノルウェー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,stevens,Stevens Institute of Technology,米国,1,1,0,0,0,0,0,136
+346,stockholm_university,Stockholms universitet,スウェーデン,1,1,0,0,0,0,0,136
+346,staedel_institut,"Städelsches Kunstinstitut, Frankfurt am Main",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,staedelschule,"Städelschule, Frankfurt am Main",ドイツ,1,1,0,0,0,0,0,136
+346,elberfeld_kunstgewerbe,Städtische Handwerker- und Kunstgewerbeschule Elberfeld,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sydney_college_of_arts,Sydney College of the Arts（1984年当時）,オーストラリア,1,1,0,0,0,0,0,136
+346,simmonds_atelier_derby,"T. Simmonds’s Atelier of Art, Derby",英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,icp_graphic_workshops,"Talleres de Artes Gráficas, Instituto de Cultura Puertorriqueña",プエルトリコ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,talleres_icp,Talleres del Instituto de Cultura Puertorriqueña,プエルトリコ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,copenhagen_technical,Technical School in Copenhagen（Ahlefeldtsgade）,デンマーク,1,1,0,0,0,0,0,136
+346,technical_univ_kosice,Technical University of Košice,スロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,technion_israel,Technion – Israel Institute of Technology,イスラエル,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,karlsruhe_technical,Technische Hochschule Karlsruhe,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,tu_berlin_postwar,Technische Universität Berlin,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vienna_tgm,"Technologisches Gewerbemuseum, Niedere Fachschule für Bau- und Maschinenschlosserei",オーストリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,copenhagen_women_design,Tegne- og Kunstindustriskolen for Kvinder,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,quistgaard_teknisk_skole_unresolved,Teknisk Skole（Jens Quistgaard資料表記）,デンマーク,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,teknisk_skole_ph_unresolved,Teknisk skole（Poul Henningsen資料表記）,デンマーク,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,tel_aviv_university,Tel Aviv University,イスラエル,1,1,0,0,0,0,0,136
+346,temple,Temple University,米国,1,1,0,0,0,0,0,136
+346,tennessee_state_university,Tennessee State University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,tcu,Texas Christian University,米国,1,1,0,0,0,0,0,136
+346,university_toyama,Toyama University（MoMA略歴表記）,日本,1,1,0,0,0,0,0,136
+346,traphagen_design,Traphagen School of Design,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,trent_park_college,Trent Park College,英国,1,1,0,0,0,0,0,136
+346,trinity_university_san_antonio,"Trinity University, San Antonio",米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,tsinghua_university,Tsinghua University,中国,1,1,0,0,0,0,0,136
+346,tulane,Tulane University,米国,1,1,0,0,0,0,0,136
+346,union_college_ny,Union College,米国,1,1,0,0,0,0,0,136
+346,up6_paris_la_villette,"Unité pédagogique d’architecture n°6, Paris",フランス,1,1,0,0,0,0,0,136
+346,universidad_nacional_la_plata,Universidad Nacional de La Plata,アルゼンチン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,upm_madrid,Universidad Politécnica de Madrid,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,universidad_alcala,Universidad de Alcalá,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_granada,Universidad de Granada,スペイン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,havana_university,Universidad de La Habana,キューバ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_puerto_rico,Universidad de Puerto Rico,プエルトリコ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_zaragoza,Universidad de Zaragoza,スペイン,1,1,0,0,0,0,0,136
+346,mackenzie,Universidade Mackenzie（現Universidade Presbiteriana Mackenzie）,ブラジル,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,universidade_brasilia,Universidade de Brasília,ブラジル,1,1,0,0,0,0,0,136
+346,university_sao_paulo,Universidade de São Paulo,ブラジル,1,1,0,0,0,0,0,136
+346,ufpe,Universidade do Recife（1965年からUFPE）,ブラジル,1,1,0,0,0,0,0,136
+346,pompeu_fabra,Universitat Pompeu Fabra,スペイン,1,1,0,0,0,0,0,136
+346,university_barcelona,Universitat de Barcelona,スペイン,1,1,0,0,0,0,0,136
+346,university_bucharest,Universitatea din București,ルーマニア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_at_buffalo_suny,"University at Buffalo, State University of New York",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_arizona,University of Arizona,米国,1,1,0,0,0,0,0,136
+346,university_auckland,University of Auckland,ニュージーランド,1,1,0,0,0,0,0,136
+346,bologna,University of Bologna,イタリア,1,1,0,0,0,0,0,136
+346,university_calgary,University of Calgary,カナダ,1,1,0,0,0,0,0,136
+346,uc_santa_barbara,"University of California, Santa Barbara",米国,1,1,0,0,0,0,0,136
+346,university_connecticut,University of Connecticut,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_dallas,University of Dallas,米国,1,1,0,0,0,0,0,136
+346,university_damascus,University of Damascus,シリア,1,1,0,0,0,0,0,136
+346,university_florida,University of Florida,米国,1,1,0,0,0,0,0,136
+346,hamburg,University of Hamburg,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_hartford,University of Hartford,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_huddersfield,University of Huddersfield,英国,1,1,0,0,0,0,0,136
+346,university_hull,University of Hull,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,illinois_scorsone,University of Illinois（Scorsone、キャンパス確認待ち）,米国,1,1,0,0,0,0,0,136
+346,university_of_kent_uk,University of Kent,英国,1,1,0,0,0,0,0,136
+346,kentucky,University of Kentucky,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,leeds_university,University of Leeds,英国,1,1,0,0,0,0,0,136
+346,university_leicester,University of Leicester,英国,1,1,0,0,0,0,0,136
+346,louisville,University of Louisville,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,victoria_university_manchester,University of Manchester（1961年、Victoria University of Manchester）,英国,1,1,0,0,0,0,0,136
+346,university_melbourne,University of Melbourne,オーストラリア,1,1,0,0,0,0,0,136
+346,university_montana_missoula,University of Montana–Missoula,米国,1,1,0,0,0,0,0,136
+346,unc_charlotte,University of North Carolina at Charlotte,米国,1,1,0,0,0,0,0,136
+346,northumbria_university,University of Northumbria,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,pretoria,University of Pretoria,南アフリカ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_reading,University of Reading,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_rochester,University of Rochester,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,university_sheffield,University of Sheffield,英国,1,1,0,0,0,0,0,136
+346,south_carolina,University of South Carolina,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,stockholm_university_historical,University of Stockholm（1938年資料表記）,スウェーデン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_sydney,University of Sydney,オーストラリア,1,1,0,0,0,0,0,136
+346,tennessee_chattanooga,University of Tennessee at Chattanooga,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,utrecht_university,University of Utrecht,オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_vermont,University of Vermont,米国,1,1,0,0,0,0,0,136
+346,university_victoria_bc,University of Victoria,カナダ,1,1,0,0,0,0,0,136
+346,university_virginia,University of Virginia,米国,1,1,0,0,0,0,0,136
+346,university_witwatersrand,University of the Witwatersrand,南アフリカ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,sapienza_rome,Università degli Studi di Roma（Sapienza）,イタリア,1,1,0,0,0,0,0,136
+346,university_ferrara,Università di Ferrara,イタリア,1,1,0,0,0,0,0,136
+346,universita_palermo,Università di Palermo,イタリア,1,1,0,0,0,0,0,136
+346,parma_university,Università di Parma,イタリア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,pavia,Università di Pavia,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,pisa,Università di Pisa,イタリア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bern_university,Universität Bern,スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bonn,Universität Bonn,ドイツ,1,1,0,0,0,0,0,136
+346,university_goettingen,Universität Göttingen,ドイツ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,munich_university,Universität München,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,university_stuttgart,Universität Stuttgart,ドイツ,1,1,0,0,0,0,0,136
+346,university_wuppertal,Universität Wuppertal,ドイツ,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,udk_berlin,Universität der Künste Berlin,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,universite_catholique_louvain,Université catholique de Louvain,ベルギー,1,1,0,0,0,0,0,136
+346,universite_geneve,Université de Genève,スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,univ_liege,Université de Liège,ベルギー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,provence_university,Université de Provence (Aix-Marseille I),フランス,1,1,0,0,0,0,0,136
+346,charles_university,"Univerzita Karlova, Praha",チェコ・チェコスロバキア,1,1,0,0,0,0,0,136
+346,university_stefan_batory_vilnius,Uniwersytet Stefana Batorego w Wilnie,リトアニア,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,vakschool_schoonhoven,Vakschool Schoonhoven,オランダ,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,utrecht_typography,"Vakschool voor Typografie, Utrecht",オランダ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vapaa_taidekoulu,"Vapaa Taidekoulu, Helsinki",フィンランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,berlin_vereinigte,"Vereinigte Staatsschulen für freie und angewandte Kunst, Berlin",ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,virginia_commonwealth_university,Virginia Commonwealth University,米国,1,1,0,0,0,0,0,136
+346,virginia_tech,Virginia Polytechnic Institute and State University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,walthamstow_art,Walthamstow School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,washburn_college,Washburn College,米国,1,1,0,0,0,0,0,136
+346,washington_lee_university,Washington and Lee University,米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,watford_college_technology,Watford College of Technology,英国,1,1,0,0,0,0,0,136
+346,wiesbaden_werkkunstschule,Werk-Kunst-Schule Wiesbaden,ドイツ,1,1,0,0,0,0,0,136
+346,hamburg_werkkunstschule,Werkkunstschule Hamburg,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,offenbach_werkkunst,Werkkunstschule Offenbach,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,wesleyan,Wesleyan University,米国,1,1,0,0,0,0,0,136
+346,western_michigan_univ,Western Michigan University,米国,1,1,0,0,0,0,0,136
+346,western_reserve_university,Western Reserve University（統合前）,米国,1,1,0,0,0,0,0,136
+346,western_washington_university,Western Washington University,米国,1,1,0,0,0,0,0,136
+346,westminster_technical,Westminster Technical College,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,wheaton_college_sauder_unresolved,Wheaton College（Sauder資料表記、州未確認）,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,wien_staatsgewerbe_olbrich_unresolved,Wiener Staatsgewerbeschule（Olbrich資料表記）,オーストリア,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,wilkes_college,Wilkes College（現 Wilkes University）,米国,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,willesden_school_art,Willesden School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,wimbledon_school_art,Wimbledon School of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,wolverhampton_art_college,Wolverhampton College of Art,英国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,haak_woodbury_unresolved,"Woodbury Art Center, Los Angeles（正式機関同定保留）",米国,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,wuppertal_buschfeld_unresolved,Wuppertalの教育機関（Hans Buschfeld資料表記）,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,warsaw_wssp_pre1950,Wyższa Szkoła Sztuk Plastycznych w Warszawie（1950年合併前）,ポーランド,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lichte_zeichen_modellier,Zeichen- und Modellierschule Lichte,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,reichenberg_museum_drawing,"Zeichenschule des Nordböhmischen Gewerbemuseums, Reichenberg",チェコ・チェコスロバキア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,dusseldorf_zeichenseminar,Zeichenseminar Düsseldorf,ドイツ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,fontainebleau_american_art_school,"École Américaine des Beaux-Arts, Fontainebleau",フランス,1,1,0,0,0,0,0,136
+346,bernard_palissy_paris,"École Bernard Palissy, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ecole_boulle,École Boulle,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ecole_estienne,"École Estienne, Paris",フランス,1,1,0,0,0,0,0,136
+346,ecole_germain_pilon,École Germain-Pilon,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ensaama_paris,École Nationale Supérieure des Arts Appliqués et des Métiers d’Art (ENSAAMA),フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,quentin_latour_school,"École Quentin-Latour, Saint-Quentin",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,imperial_arts_encouragement,École de dessin de la Société impériale pour la protection des beaux-arts,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,chambre_couture_paris,École de la Chambre Syndicale de la Couture parisienne,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,paris_ucad_school,École de l’Union centrale des arts décoratifs,フランス,1,1,0,0,0,0,0,136
+346,paris_arts_appliques_historical,École des Arts Appliqués de Paris,フランス,1,1,0,0,0,0,0,136
+346,paris_arts_appliques_dupetit_thouars,"École des Arts appliqués, rue Dupetit-Thouars, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,geneva_beaux_arts,École des Beaux-Arts de Genève,スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lille_beaux_arts,École des Beaux-Arts de Lille,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,tetouan_beauxarts,École des Beaux-Arts de Tétouan,モロッコ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,paris_langues_orientales,"École des Langues Orientales, Paris",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,geneva_arts_decoratifs,"École des arts décoratifs, Genève",スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ixelles_arts_industriels,École des arts industriels et décoratifs d’Ixelles,ベルギー,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,montpellier_beauxarts,École des beaux-arts de Montpellier（当時校）,フランス,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,rouen_beaux_arts,École des beaux-arts de Rouen,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,amiens_ecole_beaux_arts,École des beaux-arts d’Amiens,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,paris_villemin_architecture,École d’Architecture de Paris-Villemin,フランス,1,0,0,0,1,0,0,圏外（卒業・修了の計上なし）
+346,pen_art_vitebsk,"École d’art de Iouri Pen, Vitebsk",ベラルーシ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,chaux_fonds_art,École d’art de La Chaux-de-Fonds,スイス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,le_havre_arts,"École municipale des Beaux-Arts, Le Havre",フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ensa_paris_cergy,École nationale supérieure d’arts de Paris-Cergy,フランス,1,1,0,0,0,0,0,136
+346,ecole_polytechnique_paris,École polytechnique,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,lausanne_epul_historical,École polytechnique de l’Université de Lausanne,スイス,1,1,0,0,0,0,0,136
+346,marseille_commerce_unresolved,École supérieure de commerce de Marseille（正式校同定保留）,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,ecole_duperre,"École supérieure des arts appliqués Duperré, Paris",フランス,1,1,0,0,0,0,0,136
+346,esad_amiens,École supérieure d’art et de design d’Amiens,フランス,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,esec_paris,"École supérieure d’études cinématographiques (ESEC), Paris",フランス,1,1,0,0,0,0,0,136
+346,zagreb_applied_arts_design_secondary,"Škola primijenjene umjetnosti i dizajna, Zagreb",クロアチア,1,1,0,0,0,0,0,136
+346,bucharest_fine_arts,Școala de Arte Frumoase București,ルーマニア,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vitebsk_people_art,Витебское народное художественное училище,ベラルーシ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,vologda_art_technical_school,Вологодский художественный техникум,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,imperial_higher_art_petersburg,Высшее художественное училище при Императорской Академии художеств,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,hlukhiv_teachers_institute,Глухівський учительський інститут (Hlukhiv Teachers’ Institute),ウクライナ,1,1,0,0,0,0,0,136
+346,kyiv_art_school_dlugach,Киевское художественное училище（Dlugach当時校）,ウクライナ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,minsk_glebov_arts_college,Минское художественное училище имени А. К. Глебова,ベラルーシ,1,1,0,0,0,0,0,136
+346,moscow_aviation_institute,Московский авиационный институт,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,moscow_polygraphic_institute,Московский полиграфический институт,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,moscow_textile_institute,Московский текстильный институт,ロシア・ソ連,1,1,0,0,0,0,0,136
+346,odessa_art_school,Одесское художественное училище,ウクライナ,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,petrograd_free_art_workshops,Петроградские государственные свободные художественные мастерские,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,gosizdat_polygraphic,"Полиграфический техникум Госиздата, Москва",ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,tomsk_university,Томский университет,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,baku_narkompros_workshops,"Художественные мастерские Наркомпроса, Баку",アゼルバイジャン,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,bernstein_sherwood_art,"Школа живописи, рисования и скульптуры М. Д. Бернштейна и Л. В. Шервуда",ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,sytin_drawing_school,Школа рисования при типографии И. Д. Сытина,ロシア・ソ連,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,shanghai_jiaotong,上海交通大学,中国,1,1,0,0,0,0,0,136
+346,chuo_art_school,中央美術学園,日本,1,1,0,0,0,0,0,136
+346,chubu_university,中部大学,日本,1,1,0,0,0,0,0,136
+346,sozosha_design_school,創造社デザイン専門学校,日本,1,1,0,0,0,0,0,136
+346,nagoya_technology,名古屋工業大学,日本,1,1,0,0,0,0,0,136
+346,shikoku_gakuin,四国学院大学,日本,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,kokugakuin,國學院大學,日本,1,1,0,0,0,0,0,136
+346,osaka_arts,大阪芸術大学,日本,1,1,0,0,0,0,0,136
+346,shin_kenchiku_kogei,新建築工芸学院,日本,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,arai_japan_university_unresolved,日本の大学（Michio Arai本人取材表記）,日本,1,0,0,1,0,0,0,圏外（卒業・修了の計上なし）
+346,japan_womens_univ,日本女子大学校／日本女子大学（制度移行期）,日本,1,1,0,0,0,0,0,136
+346,tokyo_designer_gakuin,東京デザイナー学院,日本,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,tokyo_design_college_toda,東京デザインカレッジ,日本,1,1,0,0,0,0,0,136
+346,tokyo_institute_technology,東京工業大学,日本,1,1,0,0,0,0,0,136
+346,tokyo_kyoiku,東京教育大学（当時の機関）,日本,1,1,0,0,0,0,0,136
+346,tokyo_zokei,東京造形大学,日本,1,1,0,0,0,0,0,136
+346,tokyo_denki_university,東京電機大学,日本,1,1,0,0,0,0,0,136
+346,tokai_university,東海大学,日本,1,1,0,0,0,0,0,136
+346,hosei_university,法政大学,日本,1,1,0,0,0,0,0,136
+346,hosei_special,法政大学専門部,日本,1,0,0,0,0,1,0,圏外（卒業・修了の計上なし）
+346,tsuda_college,津田塾大学,日本,1,1,0,0,0,0,0,136
+346,naniwa_junior,浪速短期大学,日本,1,1,0,0,0,0,0,136
+346,ritsumeikan_university,立命館大学,日本,1,1,0,0,0,0,0,136
+346,ikuei_technical_college,育英工業高等専門学校,日本,1,1,0,0,0,0,0,136
+346,kanazawa_art_junior,金澤美術工藝短期大學,日本,1,1,0,0,0,0,0,136
+346,kwansei_gakuin,関西学院大学,日本,1,1,0,0,0,0,0,136
+346,seoultech,서울산업대학교（Seoul National University of Technology）,韓国,1,1,0,0,0,0,0,136

@@ -1,0 +1,11 @@
+person_id,ConstituentID,氏名,国籍_MoMA表記,生年,没年,卒業修了年の候補,専攻分類,ほかに卒業修了した機関,作品数,作品種別の内訳,MoMA人物ページ,卒業修了の根拠URL,根拠の参照箇所
+moma_person_27007,27007,Kenji Ekuan,Japanese,1929,2015,1955,その他のデザイン,Art Center School,3,食器・キッチン・日用品3,https://www.moma.org/artists/27007,https://www.tobunken.go.jp/materials/bukko/808976.html | https://jp.gkdi.com/about/kenji-ekuan/,L57、略歴 | L53–57、本人略歴
+moma_person_2026,2026,Shigeo Fukuda,Japanese,1932,2009,1956,その他のデザイン,,4,印刷物・グラフィック（ポスター等）4,https://www.moma.org/artists/2026,https://www.tobunken.go.jp/materials/bukko/28440.html,本文L56、年鑑457–458頁
+moma_person_6482,6482,Harumi Yamaguchi,Japanese,1936,,,美術,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/6482,https://fashionpost.jp/portraits/142395,本人インタビュー末尾の略歴（本文L195）
+moma_person_2835,2835,Eiko Ishioka,Japanese,1938,2012,1961,その他のデザイン,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/2835,https://www.tobunken.go.jp/materials/bukko/204383.html,L57
+moma_person_2535,2535,Makio Hasuike,Japanese,1938,,1962,その他のデザイン,,1,食器・キッチン・日用品1,https://www.moma.org/artists/2535,https://npo-plat.org/hasuike-makio.html,L63、69、116
+moma_person_3840,3840,Shin Matsunaga,Japanese,1940,,1964,その他のデザイン,,4,印刷物・グラフィック（ポスター等）4,https://www.moma.org/artists/3840,https://designcommittee.jp/en/member/matsunaga_shin.html | https://npo-plat.org/matsunaga-shin-en.html,"L27 | L62–64,120"
+moma_person_2975,2975,Takahisa Kamijyo,Japanese,1940,,1964,グラフィック・視覚伝達,,2,印刷物・グラフィック（ポスター等）2,https://www.moma.org/artists/2975,https://www.kamijyo-studio.com/profile | https://archive.jagda.or.jp/information/jagda/2792,L24–35 | 略歴L72
+moma_person_7065,7065,Kyoko Kumai,Japanese,1943,,1966,グラフィック・視覚伝達,,1,テキスタイル1,https://www.moma.org/artists/7065,https://kyokokumai.com/index.php/profile_top/,L26
+moma_person_5173,5173,Koichi Sato,Japanese,1944,,,グラフィック・視覚伝達,,26,印刷物・グラフィック（ポスター等）26,https://www.moma.org/artists/5173,https://www.npo-plat.org/sato-koichi-en.html,Profile 1967
+moma_person_131882,131882,Aki Inomata,Japanese,1983,,2008,美術,,3,デジタル（ゲーム・ソフト・書体・映像）2 / その他の立体物1,https://www.moma.org/artists/131882,https://www.aki-inomata.com/profile/,日本語略歴 L380–382

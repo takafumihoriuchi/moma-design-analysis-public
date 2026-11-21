@@ -1,0 +1,13 @@
+person_id,ConstituentID,氏名,国籍_MoMA表記,生年,没年,卒業修了年の候補,専攻分類,ほかに卒業修了した機関,作品数,作品種別の内訳,MoMA人物ページ,卒業修了の根拠URL,根拠の参照箇所
+moma_person_2953,2953,Dora Jung,Finnish,1906,1980,1932,その他のデザイン,,2,テキスタイル2,https://www.moma.org/artists/2953,https://www.craftmuseum.fi/nayttelyt-ja-tapahtumat/nayttelyarkisto/vaihtuvat-nayttelyt-2017/dora-jung-pellavan-kuvittaja-71,L218
+moma_person_4352,4352,Gunnel Nyman,Finnish,1909,1948,,工業・プロダクトデザイン,,1,食器・キッチン・日用品1,https://www.moma.org/artists/4352,https://www.finna.fi/Record/aipa.node-5868?lng=en-gb,L627–630
+moma_person_5692,5692,Marianne Strengell,American,1909,1998,1929,その他のデザイン,,7,テキスタイル7,https://www.moma.org/artists/5692,https://www.cooperhewitt.org/2016/06/27/education-and-industry/,本文 Marianne Strengell の教育歴
+moma_person_1968,1968,Kaj Franck,Finnish,1911,1989,1932,工業・プロダクトデザイン,,39,食器・キッチン・日用品39,https://www.moma.org/artists/1968,https://www.aalto.fi/fi/alumneille/franck-wirkkala-ja-kukkapuro,L69–71
+moma_person_6409,6409,Tapio Wirkkala,Finnish,1915,1985,1936,その他のデザイン,,18,食器・キッチン・日用品16 / 照明2,https://www.moma.org/artists/6409,https://vintti.yle.fi/yle.fi/sininenlaulu/yle.fi/teema/sininenlaulu/artikkeli.php-id=274.htm,L37
+moma_person_2724,2724,Saara Hopea,Finnish,1925,1984,,その他のデザイン,,14,食器・キッチン・日用品14,https://www.moma.org/artists/2724,https://www.ganoksin.com/article/memory-saraa-hopea-untracht-1925-1984/,追悼本文
+moma_person_5666,5666,Nanny Still,Finnish,1926,2009,1949,その他のデザイン,,5,食器・キッチン・日用品4 / 照明1,https://www.moma.org/artists/5666,https://yle.fi/a/3-5250419,L106
+moma_person_6613,6613,Antti Nurmesniemi,Finnish,1927,2003,1950,その他のデザイン,,4,家具2 / 食器・キッチン・日用品2,https://www.moma.org/artists/6613,https://www.vuokko.fi/pages/antti | https://yle.fi/a/3-5148414,L45–52 | L87–96
+moma_person_3557,3557,Francesca Lindh,Finnish,1931,,,その他のデザイン,,1,食器・キッチン・日用品1,https://www.moma.org/artists/3557,https://www.meillakotona.fi/artikkelit/francesca-mascitti-lindh,"L89,105–108"
+moma_person_36,36,Eero Aarnio,Finnish,1932,,1957,,,2,その他の立体物1 / 家具1,https://www.moma.org/artists/36,https://yle.fi/a/3-12634097,末尾のEero Aarnio略歴欄
+moma_person_7510,7510,Ritva Puotila,Finnish,1935,,1959,,,7,テキスタイル7,https://www.moma.org/artists/7510,https://www.finnishdesignshop.fi/fi/design-stories/haastattelu/woodnotes-ritva-puotila,本人インタビュー L339以降
+moma_person_6123,6123,Jukka Veistola,Finnish,1946,,1968,グラフィック・視覚伝達,,2,印刷物・グラフィック（ポスター等）2,https://www.moma.org/artists/6123,https://a-g-i.org/user/jukkaveistola/,L4

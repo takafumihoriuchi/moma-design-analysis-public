@@ -1,0 +1,13 @@
+person_id,ConstituentID,氏名,国籍_MoMA表記,生年,没年,卒業修了年の候補,専攻分類,ほかに卒業修了した機関,作品数,作品種別の内訳,MoMA人物ページ,卒業修了の根拠URL,根拠の参照箇所
+moma_person_5894,5894,Henryk Tomaszewski,Polish,1914,2005,1939,美術,,9,印刷物・グラフィック（ポスター等）9,https://www.moma.org/artists/5894,https://culture.pl/pl/tworca/henryk-tomaszewski-grafik,L48
+moma_person_6038,6038,Maciej Urbaniec,Polish,1925,2004,1958,,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/6038,https://culture.pl/pl/tworca/maciej-urbaniec,略歴（本文L45–46）
+moma_person_4033,4033,Jan Młodożeniec,Polish,1929,2000,1955,グラフィック・視覚伝達,,4,印刷物・グラフィック（ポスター等）4,https://www.moma.org/artists/4033,https://culture.pl/pl/tworca/jan-mlodozeniec,"L43,53"
+moma_person_5607,5607,Franciszek Starowieyski,Polish,1930,2009,,,,35,印刷物・グラフィック（ポスター等）35,https://www.moma.org/artists/5607,https://culture.pl/pl/tworca/franciszek-starowieyski,L39
+moma_person_38,38,Magdalena Abakanowicz,Polish,1930,2017,1954,その他のデザイン,,1,テキスタイル1,https://www.moma.org/artists/38,https://abakanowicz.foundation/artist,BIOGRAPHICAL SUMMARY 第1–2段落、1965年の教員歴
+moma_person_6534,6534,Stanislaw Zagorski,Polish,1933,,,グラフィック・視覚伝達,,2,印刷物・グラフィック（ポスター等）2,https://www.moma.org/artists/6534,https://www.gsw.ostrowwlkp.pl/2127-2/ | https://www.czczaplinski.com/post/portret-z-histori%C4%85-stanis%C5%82aw-zag%C3%B3rski | https://www.poles.org/db/Z_names/Zagorski_SA.html,L82–88 | L56–66、L114–121 | Education（本文L8）
+moma_person_8270,8270,Jacek Neugebauer,Polish,1934,,1959,,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/8270,https://plakatpolski.pl/pl/producer/NEUGEBAUER-Jacek/112/1/full | https://plakaty.antykwariat.biz/object/index/id/496,Wykształcenie L64 | 人物略歴
+moma_person_6558,6558,Bronislaw Zelek,Polish,1935,,1961,グラフィック・視覚伝達,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/6558,https://asp.waw.pl/bronislaw-zelek-zakleta-kraina-liter/ | https://culture.pl/pl/tworca/bronislaw-zelek,L190–198、人物略歴 | L22–43および映画ポスターGłódの段落
+moma_person_8392,8392,Marek Freudenreich,Polish,1939,,1963,グラフィック・視覚伝達,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/8392,https://culture.pl/pl/tworca/marek-freudenreich,L37
+moma_person_39765,39765,Andrzej Budek,Polish,1959,,,グラフィック・視覚伝達,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/39765,,
+moma_person_2630,2630,Hibner,Polish,,,,,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/2630,https://desa.pl/pl/artysci/maciej-hibner/,L45–47
+moma_person_38524,38524,Tomasz Sarnecki,Polish,,,1991,グラフィック・視覚伝達,,2,印刷物・グラフィック（ポスター等）2,https://www.moma.org/artists/38524,,

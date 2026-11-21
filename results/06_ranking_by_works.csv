@@ -1,0 +1,414 @@
+順位,機関ID,教育機関名,所在国,卒業修了者の作品数,卒業修了者数,一人あたり作品数,人数ランキングの順位,最多作品の人物,その人物の作品数,最多作品の人物が占める割合
+1,bauhaus,Bauhaus,ドイツ,338,9,37.6,20,Anni Albers,174,51%
+2,usc,University of Southern California,米国,249,6,41.5,29,Elaine Lustig Cohen,234,94%
+3,yale,Yale University,米国,197,21,9.4,6,Thomas Geismar,71,36%
+4,polimi,Politecnico di Milano,イタリア,192,48,4.0,2,Giorgia Lupi,54,28%
+5,rca,Royal College of Art,英国,164,58,2.8,1,Konstantin Grcic,23,14%
+6,institute_design_chicago,"Institute of Design, Chicago",米国,156,5,31.2,32,Robert Brownjohn,145,93%
+7,pratt,Pratt Institute,米国,139,25,5.6,5,Lance Wyman,58,42%
+8,design_academy_eindhoven,Design Academy Eindhoven,オランダ,109,27,4.0,4,Hella Jongerius,29,27%
+9,helsinki_industrial_arts,Helsingin Taideteollinen Oppilaitos,フィンランド,102,12,8.5,14,Kaj Franck,39,38%
+10,mit,Massachusetts Institute of Technology,米国,87,29,3.0,3,Neri Oxman,31,36%
+11,brown_university,Brown University,米国,79,4,19.8,40,Thomas Geismar,71,90%
+12,hague_academy,"Academie voor Beeldende Kunsten, Den Haag",オランダ,70,1,70.0,136,Rudy VanderLans,70,100%
+13,ivkno,Instituut voor Kunstnijverheidsonderwijs / Gerrit Rietveld Academie,オランダ,66,6,11.0,29,Fré Cohen,53,80%
+14,central_saint_martins,Central Saint Martins College of Art and Design,英国,62,7,8.9,27,Stefanie Posavec,54,87%
+15,warsaw_arts,"Academy of Plastic Arts, Warsaw",ポーランド,59,12,4.9,14,Franciszek Starowieyski,35,59%
+15,columbia,Columbia University,米国,59,15,3.9,7,Noémi Raymond,10,17%
+15,cranbrook,Cranbrook Academy of Art,米国,59,13,4.5,12,Stephen Frykholm,22,37%
+15,nyu,New York University,米国,59,14,4.2,8,Susan Kare,32,54%
+19,cooper_union,Cooper Union,米国,56,14,4.0,8,Milton Glaser,22,39%
+19,risd,Rhode Island School of Design,米国,56,13,4.3,12,Georgianna Stout,23,41%
+21,colorado_state,Colorado State University,米国,54,1,54.0,136,Stefanie Posavec,54,100%
+21,university_ferrara,Università di Ferrara,イタリア,54,1,54.0,136,Giorgia Lupi,54,100%
+23,national_university_singapore,National University of Singapore,シンガポール,50,2,25.0,79,Huiyi Lin,50,100%
+23,tsinghua_university,Tsinghua University,中国,50,1,50.0,136,Huiyi Lin,50,100%
+25,copenhagen_academy,"Kunstakademiet, Copenhagen",デンマーク,49,8,6.1,24,Arne Jacobsen,18,37%
+26,bennett_millbrook,"Bennett School, Millbrook（上級2年課程）",米国,48,1,48.0,136,Ray Eames,48,100%
+27,tokyo_geidai,東京藝術大学,日本,46,10,4.6,17,Koichi Sato,26,57%
+28,aki_enschede,"Akademie voor Kunst en Industrie (AKI), Enschede",オランダ,45,1,45.0,136,Irma Boom,45,100%
+29,vienna_fine_arts,Akademie der bildenden Künste Wien,オーストリア,44,5,8.8,32,Josef Hoffmann,38,86%
+29,jena,University of Jena,ドイツ,44,2,22.0,79,Walter Dexel,43,98%
+31,cornell,Cornell University,米国,41,5,8.2,32,Eduardo Terrazas,36,88%
+32,architectural_association_london,Architectural Association School of Architecture,英国,40,4,10.0,40,Neri Oxman,31,78%
+33,helsinki_technology,Suomen Teknillinen Korkeakoulu（Helsinki University of Technology）,フィンランド,37,2,18.5,79,Alvar Aalto,36,97%
+33,zagreb_applied_arts_design_secondary,"Škola primijenjene umjetnosti i dizajna, Zagreb",クロアチア,37,1,37.0,136,Mirko Ilić,37,100%
+35,unam,Universidad Nacional Autónoma de México,メキシコ,36,2,18.0,79,Eduardo Terrazas,36,100%
+36,cincinnati,University of Cincinnati,米国,33,4,8.2,40,Sam Lucente,16,48%
+37,mount_holyoke,Mount Holyoke College,米国,32,1,32.0,136,Susan Kare,32,100%
+38,artcenter,Art Center School,米国,31,14,2.2,8,Yves Béhar,10,32%
+39,west_surrey_college_art_design,"West Surrey College of Art and Design, Farnham",英国,29,3,9.7,58,Annabel Jankel,18,62%
+40,iuav,Istituto Universitario di Architettura di Venezia,イタリア,26,8,3.2,24,Gaetano Pesce,12,46%
+40,tama_art,多摩美術大学,日本,26,4,6.5,40,Naoto Fukasawa,11,42%
+40,kuwasawa,桑沢デザイン研究所,日本,26,5,5.2,32,Tokujin Yoshioka,9,35%
+43,zagreb_academy,"Akademija likovnih umjetnosti, Zagreb",クロアチア,23,2,11.5,79,Boris Bućan,22,96%
+43,union_college_ny,Union College,米国,23,1,23.0,136,Michael Rock,23,100%
+43,wiesbaden_werkkunstschule,Werk-Kunst-Schule Wiesbaden,ドイツ,23,1,23.0,136,Dieter Rams,23,100%
+46,brera_academy,Accademia di Belle Arti di Brera,イタリア,22,2,11.0,79,Joe Colombo,20,91%
+46,sva,Cartoonists and Illustrators School / School of Visual Arts,米国,22,5,4.4,32,Laurene Leon Boym,12,55%
+48,princeton,Princeton University,米国,21,9,2.3,20,Emilio Ambasz,8,38%
+48,uc_berkeley,"University of California, Berkeley",米国,21,9,2.3,20,Dorothy Liebes,7,33%
+48,berlin_university_historical,Universität Berlin（当時の機関）,ドイツ,21,1,21.0,136,Peter Schlumbohm,21,100%
+51,weimar_kunstschule,Kunstschule Weimar,ドイツ,20,1,20.0,136,Joost Schmidt,20,100%
+51,temple,Temple University,米国,20,1,20.0,136,Paula Scher,20,100%
+53,luzern_applied_arts,Kunstgewerbeschule Luzern,スイス,18,1,18.0,136,Niklaus Troxler,18,100%
+53,copenhagen_technical,Technical School in Copenhagen（Ahlefeldtsgade）,デンマーク,18,1,18.0,136,Arne Jacobsen,18,100%
+53,washington,"University of Washington, Seattle",米国,18,5,3.6,32,Ed Rossbach,8,44%
+53,ensci_les_ateliers,École nationale supérieure de création industrielle – Les Ateliers,フランス,18,5,3.6,32,Mathieu Lehanneur,12,67%
+57,warsaw_technology,Politechnika Warszawska,ポーランド,17,1,17.0,136,Jan Lenica,17,100%
+57,smfa_boston,"School of the Museum of Fine Arts, Boston",米国,17,2,8.5,79,Ellsworth Kelly,16,94%
+57,university_zurich,Universität Zürich,スイス,17,2,8.5,79,Georg Gerster,16,94%
+60,wroclaw_arts,"Państwowa Wyższa Szkoła Sztuk Plastycznych, Wrocław",ポーランド,16,3,5.3,58,Jan Sawka,11,69%
+60,twickenham_college_technology,Twickenham College of Technology,英国,16,1,16.0,136,Barney Bubbles (Colin Fulcher),16,100%
+62,bezalel,"Bezalel School of Arts, Jerusalem",イスラエル,15,7,2.1,27,Ron Arad,7,47%
+62,universitaet_angewandte_wien,Hochschule für angewandte Kunst in Wien / Universität für angewandte Kunst Wien,オーストリア,15,1,15.0,136,Stefan Sagmeister,15,100%
+62,uchicago,University of Chicago,米国,15,2,7.5,79,Lester Beall,14,93%
+62,bonn,Universität Bonn,ドイツ,15,1,15.0,136,George Him,15,100%
+66,riga_polytechnic,Riga Polytechnical Institute（当時Moscowへ移転）,ラトビア／ロシア,14,1,14.0,136,El Lissitzky,14,100%
+66,vkhutemas_moscow,"VKhUTEMAS / VKhUTEIN, Moscow",ロシア・ソ連,14,6,2.3,29,Lydia Naumova,5,36%
+66,waseda,早稲田大学,日本,14,4,3.5,40,Masayuki Kurokawa,10,71%
+66,musashino_junior,武蔵野美術短期大学,日本,14,2,7.0,79,Makoto Komatsu,13,93%
+70,domus_academy,"Domus Academy, Milano",イタリア,13,2,6.5,79,Constantin Boym,12,92%
+70,harvard,Harvard University,米国,13,10,1.3,17,Eric Rosenbaum,3,23%
+70,hfg_ulm,Hochschule für Gestaltung Ulm,ドイツ,13,4,3.2,40,Reinhold Weiss,7,54%
+70,kcl,King’s College London,英国,13,2,6.5,79,Fougasse (Cyril Kenneth Bird),10,77%
+70,florence,Università degli Studi di Firenze,イタリア,13,14,0.9,8,Giulio Lazzotti,5,38%
+70,moscow_textile_institute,Московский текстильный институт,ロシア・ソ連,13,1,13.0,136,Anna Andreeva,13,100%
+76,weissensee_art_school,Kunsthochschule Berlin-Weißensee,ドイツ,12,1,12.0,136,Sophie Alex,12,100%
+76,manchester_polytechnic,Manchester Polytechnic,英国,12,3,4.0,58,Peter Saville,8,67%
+76,moscow_architectural_institute,Moscow Architectural Institute,ロシア・ソ連,12,1,12.0,136,Constantin Boym,12,100%
+76,ucla,"University of California, Los Angeles",米国,12,3,4.0,58,Takenobu Igarashi,10,83%
+76,paris_ucad_school,École de l’Union centrale des arts décoratifs,フランス,12,1,12.0,136,Charlotte Perriand,12,100%
+81,wroclaw_technical,Politechnika Wrocławska,ポーランド,11,1,11.0,136,Jan Sawka,11,100%
+81,stanford,Stanford University,米国,11,12,0.9,14,Robert Motherwell,2,18%
+81,buenos_aires,Universidad de Buenos Aires,アルゼンチン,11,9,1.2,20,González Ruiz,8,73%
+81,minsk_glebov_arts_college,Минское художественное училище имени А. К. Глебова,ベラルーシ,11,1,11.0,136,Peter Bankov,11,100%
+81,moscow_polygraphic_institute,Московский полиграфический институт,ロシア・ソ連,11,1,11.0,136,Peter Bankov,11,100%
+81,university_tsukuba,筑波大学,日本,11,3,3.7,58,John Maeda,9,82%
+87,carnegie_technology,Carnegie Institute of Technology,米国,10,1,10.0,136,Andy Warhol,10,100%
+87,camondo,Centre d’art et de techniques（École Camondoの旧称）,フランス,10,1,10.0,136,Pierre Paulin,10,100%
+87,budapest_college_applied_arts,Hungarian Academy of Crafts and Design,ハンガリー,10,3,3.3,58,György Bp. Szabó,8,80%
+87,london_printing,London College of Printing,英国,10,2,5.0,79,Keith Godard,9,90%
+87,san_jose_state,San José State University,米国,10,3,3.3,58,Dorothy Liebes,7,70%
+87,chicago_art_institute,School of the Art Institute of Chicago,米国,10,4,2.5,40,Robert Indiana,7,70%
+87,nagoya_technology,名古屋工業大学,日本,10,1,10.0,136,Masayuki Kurokawa,10,100%
+94,vienna_bundeslehranstalt_textil,"Bundeslehranstalt für Textilindustrie, Wien",オーストリア,9,1,9.0,136,Otto Natzler,9,100%
+94,massart,Massachusetts School of Art,米国,9,3,3.0,58,Muriel Cooper,4,44%
+94,parsons,Parsons School of Design,米国,9,10,0.9,17,Evan Roth,3,33%
+97,iit,Illinois Institute of Technology,米国,8,4,2.0,40,Richard Schultz,3,38%
+97,parma_istituto_arte_historical,Istituto d’Arte di Parma（当時の機関）,イタリア,8,1,8.0,136,Marcello Nizzoli,8,100%
+97,kcai,Kansas City Art Institute,米国,8,1,8.0,136,April Greiman,8,100%
+97,kingston,Kingston University,英国,8,3,2.7,58,Jasper Morrison,5,62%
+97,kunstgewerbe_wien,Kunstgewerbeschule Wien,オーストリア,8,4,2.0,40,Oswald Haerdtl,4,50%
+97,ohio_state,Ohio State University,米国,8,2,4.0,79,Muriel Cooper,4,50%
+103,sint_joost_breda_historical,"Academie Sint Joost, Breda",オランダ,7,1,7.0,136,Ton Homburg,7,100%
+103,designskolen_kolding,Designskolen Kolding,デンマーク,7,2,3.5,79,Caroline Slotte,6,86%
+103,torino,Politecnico di Torino,イタリア,7,8,0.9,24,Aimaro Oreglia d'Isola,2,29%
+103,poznan_arts,State Higher School of Plastic Arts in Poznań,ポーランド,7,1,7.0,136,Andrzej Pagowski,7,100%
+103,stevens,Stevens Institute of Technology,米国,7,1,7.0,136,Alexander Calder,7,100%
+103,sydney_college_of_arts,Sydney College of the Arts（1984年当時）,オーストラリア,7,1,7.0,136,Marc Newson,7,100%
+103,syracuse,Syracuse University,米国,7,4,1.8,40,Lurelle Guild,4,57%
+103,michigan,University of Michigan,米国,7,4,1.8,40,John Rieben,4,57%
+103,genoa,Università degli Studi di Genova,イタリア,7,1,7.0,136,Filippo Tommaso Marinetti,7,100%
+103,sapienza_rome,Università degli Studi di Roma（Sapienza）,イタリア,7,1,7.0,136,Lina Bo Bardi,7,100%
+103,paris_arts_decoratifs,"École des Arts Décoratifs, Paris",フランス,7,3,2.3,58,Ronan Bouroullec,5,71%
+114,krakow_arts,"Academy of Fine Arts, Kraków",ポーランド,6,3,2.0,58,Waldemar Swierzy,3,50%
+114,basel_gewerbe,Allgemeine Gewerbeschule Basel,スイス,6,2,3.0,79,Ruodi Barth,4,67%
+114,camberwell,Camberwell School of Art,英国,6,3,2.0,58,Deirdre Burnett,3,50%
+114,central,"Central School of Art, London",英国,6,4,1.5,40,David Lewis,3,50%
+114,goldsmiths,Goldsmiths College,英国,6,1,6.0,136,Graham Sutherland,6,100%
+114,zurich_applied_arts,Kunstgewerbeschule Zürich,スイス,6,4,1.5,40,Ralph Schraivogel,3,50%
+114,copenhagen_crafts,"Kunsthåndværkerskolen, Copenhagen",デンマーク,6,3,2.0,58,Poul Kjærholm,4,67%
+114,bergen_academy_art_design,Kunsthøgskolen i Bergen / Bergen Academy of Art and Design,ノルウェー,6,1,6.0,136,Caroline Slotte,6,100%
+114,cambridge,University of Cambridge,英国,6,4,1.5,40,Jay Silver,3,50%
+114,maryland,University of Maryland,米国,6,2,3.0,79,Evan Roth,3,50%
+114,unc_chapel_hill,"University of North Carolina, Chapel Hill",米国,6,2,3.0,79,David Reinfurt,5,83%
+125,arnhem_academy,Academie voor Beeldende Kunsten Arnhem,オランダ,5,3,1.7,58,Marcel Wanders,2,40%
+125,alfred,Alfred University,米国,5,1,5.0,136,Michael Lax,5,100%
+125,american_art_school_ny_1950s,"American Art School, New York",米国,5,1,5.0,136,Felix Beltran,5,100%
+125,carnegie_mellon,Carnegie Mellon University,米国,5,3,1.7,58,Shawn Sims,3,60%
+125,chicago_academy_fine_arts,Chicago Academy of Fine Arts,米国,5,1,5.0,136,John Massey,5,100%
+125,city_college_new_york,City College of New York (CUNY),米国,5,2,2.5,79,John McVicker,3,60%
+125,clark_university,Clark University,米国,5,1,5.0,136,Sarah Williams,5,100%
+125,sao_paulo_school_fine_arts,Faculdade de Belas Artes de São Paulo,ブラジル,5,1,5.0,136,Fernando Campana,5,100%
+125,hfg_karlsruhe,Hochschule für Gestaltung Karlsruhe,ドイツ,5,1,5.0,136,Matthias Megyeri,5,100%
+125,utrecht_school_arts,Hogeschool voor de Kunsten Utrecht,オランダ,5,2,2.5,79,Claudy Jongstra,3,60%
+125,indiana_bloomington,Indiana University Bloomington,米国,5,2,2.5,79,John Rieben,4,80%
+125,instituto_politecnico_san_german,Instituto Politécnico de San Germán,プエルトリコ,5,1,5.0,136,Rafael Rivera García,5,100%
+125,stuttgart_academy_postwar,Staatliche Akademie der Bildenden Künste Stuttgart（戦後）,ドイツ,5,2,2.5,79,Axel Schmid,4,80%
+125,stuttgart_technical,Technische Hochschule Stuttgart,ドイツ,5,1,5.0,136,Hermann Gretsch,5,100%
+125,th_wien,Technische Hochschule Wien,オーストリア,5,2,2.5,79,Josef Frank,4,80%
+125,stuttgart_kunstgewerbe,"Württembergische Staatliche Kunstgewerbeschule, Stuttgart",ドイツ,5,1,5.0,136,Hermann Gretsch,5,100%
+125,ecal_lausanne,École cantonale d’art de Lausanne (ECAL),スイス,5,4,1.2,40,Christophe Guberan,3,60%
+125,paris_beaux_arts,"École des Beaux-Arts, Paris",フランス,5,5,1.0,32,Franco Annoni,1,20%
+125,ensa_paris_cergy,École nationale supérieure d’arts de Paris-Cergy,フランス,5,1,5.0,136,Erwan Bouroullec,5,100%
+125,utokyo,東京大学,日本,5,3,1.7,58,Kinya Tagawa,4,80%
+125,tokyo_bijutsu,東京美術学校,日本,5,1,5.0,136,Sori Yanagi,5,100%
+125,musashino_art_university,武蔵野美術大学,日本,5,4,1.2,40,Aijiro Wakita,2,40%
+147,venice_academy,Accademia di Belle Arti di Venezia,イタリア,4,1,4.0,136,Tulio Crali,4,100%
+147,chicago_teachers,Chicago Teachers College,米国,4,1,4.0,136,Edith Heath,4,100%
+147,danish_design_school,Danish Design School,デンマーク,4,1,4.0,136,Louise Campbell,4,100%
+147,eth_zurich,Eidgenössische Technische Hochschule Zürich,スイス,4,4,1.0,40,Hans Gugelot,2,50%
+147,santiago_tejada_arts,"Escuela Provincial de Artes Plásticas José Joaquín Tejada, Santiago de Cuba",キューバ,4,1,4.0,136,Alfredo Rostgaard,4,100%
+147,fontys_academy_tilburg,"Fontys Academy, Tilburg（本人CV表記）",オランダ,4,1,4.0,136,Cindy van den Bremen,4,100%
+147,stockholm_school_of_economics,Handelshögskolan i Stockholm,スウェーデン,4,1,4.0,136,Ruben Rausing,4,100%
+147,imperial_college_london,"Imperial College, London",英国,4,4,1.0,40,Duncan Turner,1,25%
+147,london_college_furniture,"London College of Furniture, City of London Polytechnic（1992年にLondon Guildhall University）",英国,4,1,4.0,136,Louise Campbell,4,100%
+147,ohio_university,Ohio University,米国,4,1,4.0,136,Jim Dine,4,100%
+147,puc_chile,Pontificia Universidad Católica de Chile,チリ,4,2,2.0,79,Juan Baixas,3,75%
+147,salford_art,Salford School of Art,英国,4,1,4.0,136,Eric Lombers,4,100%
+147,smith,Smith College,米国,4,2,2.0,79,Maya Deren,3,75%
+147,muenchberg_textilindustrie,"Staatliche Höhere Fachschule für Textilindustrie, Münchberg",ドイツ,4,1,4.0,136,Maria Kipp,4,100%
+147,university_sao_paulo,Universidade de São Paulo,ブラジル,4,1,4.0,136,Marcelo Suzuki,4,100%
+147,buffalo,University of Buffalo,米国,4,2,2.0,79,Allan D'Arcangelo,2,50%
+147,university_calgary,University of Calgary,カナダ,4,1,4.0,136,Andrew John Hessel,4,100%
+147,uc_san_diego,"University of California, San Diego",米国,4,2,2.0,79,Yolanda Lopez,3,75%
+147,budapest_fine_arts,University of Fine Arts in Budapest（Cooper Hewitt資料表記）,ハンガリー,4,1,4.0,136,Eszter Haraszty,4,100%
+147,illinois_urbana,"University of Illinois, Champaign-Urbana",米国,4,3,1.3,58,Donald R. Knorr,2,50%
+147,university_sydney,University of Sydney,オーストラリア,4,1,4.0,136,Kate Crawford,4,100%
+147,wisconsin_madison,University of Wisconsin–Madison,米国,4,2,2.0,79,Jeremy White,2,50%
+147,watford_college_technology,Watford College of Technology,英国,4,1,4.0,136,John Barnard,4,100%
+147,western_washington_university,Western Washington University,米国,4,1,4.0,136,Art Chantry,4,100%
+147,ensad_paris,"École nationale supérieure des Arts Décoratifs, Paris",フランス,4,1,4.0,136,Philippe Apeloig,4,100%
+147,ecole_duperre,"École supérieure des arts appliqués Duperré, Paris",フランス,4,1,4.0,136,Philippe Apeloig,4,100%
+147,tokyo_koto_kogei,東京高等工芸学校,日本,4,2,2.0,79,Isamu Kenmochi,2,50%
+147,ikuei_technical_college,育英工業高等専門学校,日本,4,1,4.0,136,Takeshi Ishiguro,4,100%
+147,kanazawa_arts,金沢美術工芸大学,日本,4,2,2.0,79,Kazuo Kawasaki,3,75%
+176,american_university_beirut,American University of Beirut,レバノン,3,3,1.0,58,Ayah Bdeir,1,33%
+176,athenaeum_lausanne,Athenaeum di Losanna,スイス,3,1,3.0,136,Emma Gismondi Schweinberger,3,100%
+176,rio_escola_nacional_belas_artes,"Escola Nacional de Belas Artes, Rio de Janeiro",ブラジル,3,2,1.5,79,Oscar Niemeyer,2,67%
+176,barcelona_arch,Escola Superior d’Arquitectura de Barcelona,スペイン,3,1,3.0,136,Antoni Gaudí,3,100%
+176,georgia_tech,Georgia Institute of Technology,米国,3,1,3.0,136,Jay Silver,3,100%
+176,iowa_state,Iowa State College,米国,3,1,3.0,136,Richard Schultz,3,100%
+176,johns_hopkins,Johns Hopkins University,米国,3,2,1.5,79,Gilbert Lesser,2,67%
+176,kassel_kunstakademie_historical,Kunstakademie Kassel,ドイツ,3,1,3.0,136,Arnold Bode,3,100%
+176,london_metropolitan_university,London Metropolitan University,英国,3,1,3.0,136,Markus Kayser,3,100%
+176,middlesex_polytechnic,Middlesex Polytechnic / Middlesex University,英国,3,2,1.5,79,Lorraine Gamman,2,67%
+176,minneapolis_college_art_design,Minneapolis College of Art and Design,米国,3,2,1.5,79,Charles S. Anderson,2,67%
+176,moscow_university,Moscow University,ロシア・ソ連,3,1,3.0,136,Vasily Kandinsky,3,100%
+176,oklahoma_state,Oklahoma Agricultural and Mechanical College（現Oklahoma State University）,米国,3,2,1.5,79,Richard Danne,2,67%
+176,oregon_state_university,Oregon State University,米国,3,2,1.5,79,Don Pettit,2,67%
+176,principia,Principia College,米国,3,1,3.0,136,David Rowland,3,100%
+176,reed_college,Reed College,米国,3,1,3.0,136,Paul Shaw,3,100%
+176,san_diego_state,San Diego State University（資料表記）,米国,3,1,3.0,136,Yolanda Lopez,3,100%
+176,sheffield_city_polytechnic,Sheffield City Polytechnic,英国,3,1,3.0,136,Stephen Peart,3,100%
+176,kansas,University of Kansas,米国,3,3,1.0,58,Fernanda Bertini Viégas,1,33%
+176,unc_charlotte,University of North Carolina at Charlotte,米国,3,1,3.0,136,Adam Vosburgh,3,100%
+176,university_texas_austin,University of Texas at Austin,米国,3,3,1.0,58,Clifton Roozeboom,1,33%
+176,universite_catholique_louvain,Université catholique de Louvain,ベルギー,3,1,3.0,136,Laurence Humier,3,100%
+176,ljubljana_university,Univerza v Ljubljani,スロベニア,3,2,1.5,79,Majda Dobravec-Lajovic,2,67%
+176,charles_university,"Univerzita Karlova, Praha",チェコ・チェコスロバキア,3,1,3.0,136,Karel Teige,3,100%
+176,wesleyan,Wesleyan University,米国,3,1,3.0,136,Norman Ives,3,100%
+176,western_reserve_university,Western Reserve University（統合前）,米国,3,1,3.0,136,Edward Moulthrop,3,100%
+176,lausanne_epul_historical,École polytechnique de l’Université de Lausanne,スイス,3,1,3.0,136,Nanda Vigo,3,100%
+176,shanghai_jiaotong,上海交通大学,中国,3,1,3.0,136,Jenova (Xinghan) Chen,3,100%
+176,keio,慶應義塾大学,日本,3,2,1.5,79,Yoji Yamamoto,2,67%
+176,bunka_fashion_college,文化服装学院,日本,3,2,1.5,79,Yoji Yamamoto,2,67%
+176,japan_womens_univ,日本女子大学校／日本女子大学（制度移行期）,日本,3,1,3.0,136,Takako Saito,3,100%
+176,tokyo_kyoiku,東京教育大学（当時の機関）,日本,3,1,3.0,136,Shizuko Muller-Yoshikawa,3,100%
+176,tsuda_college,津田塾大学,日本,3,1,3.0,136,Shizuko Muller-Yoshikawa,3,100%
+176,naniwa_junior,浪速短期大学,日本,3,1,3.0,136,Toshiyuki Kita,3,100%
+210,dresden_academy,Akademie für Bildende Künste Dresden,ドイツ,2,1,2.0,136,George Grosz,2,100%
+210,arizona_state,Arizona State College / Arizona State University,米国,2,2,1.0,79,Richard W. Landis,1,50%
+210,bradford_art,Bradford Regional Art School,英国,2,1,2.0,136,David Hockney,2,100%
+210,brighton_art,Brighton School of Art,英国,2,2,1.0,79,John Pasche,1,50%
+210,dalhousie_university,Dalhousie University,カナダ,2,2,1.0,79,Stephanie Forsythe,2,100%
+210,florida_state_university,Florida State University,米国,2,2,1.0,79,Erik Hersman,1,50%
+210,fullerton_junior_college,Fullerton Junior College,米国,2,1,2.0,136,Leo Fender,2,100%
+210,georgetown,Georgetown University,米国,2,2,1.0,79,Glenn O'Brien,1,50%
+210,haverford_college,Haverford College,米国,2,1,2.0,136,Maxfield Parrish,2,100%
+210,hunter,Hunter College,米国,2,2,1.0,79,George Sadek,1,50%
+210,hogre_konstindustriella,"Högre konstindustriella skolan, Stockholm",スウェーデン,2,1,2.0,136,Greta Magnusson Grossman,2,100%
+210,institute_american_indian_arts,Institute of American Indian Arts,米国,2,1,2.0,136,Sadie Red Wing,2,100%
+210,douglas_school_of_art,"Isle of Man School of Art, Douglas",英国,2,1,2.0,136,Mackay Hugh Baillie Scott,2,100%
+210,konstfack,"Konstfackskolan, Stockholm",スウェーデン,2,3,0.7,58,Hans Ehrich,1,50%
+210,finnish_goldsmith_school,Kultaseppäkoulu / Finnish Goldsmith School,フィンランド,2,1,2.0,136,Bertel Gardberg,2,100%
+210,leningrad_higher_art_industry,Leningrad Higher School of Art and Industry,ロシア・ソ連,2,1,2.0,136,Boris Berlin,2,100%
+210,mica,Maryland Institute College of Art,米国,2,1,2.0,136,Gilbert Lesser,2,100%
+210,miami_university_ohio,"Miami University, Ohio",米国,2,1,2.0,136,Greg Lynn,2,100%
+210,north_carolina_state,North Carolina State University,米国,2,1,2.0,136,Sadie Red Wing,2,100%
+210,penn_state,Pennsylvania State University,米国,2,2,1.0,79,Craig Grimes,1,50%
+210,rensselaer_polytechnic,Rensselaer Polytechnic Institute,米国,2,2,1.0,79,David Shen,1,50%
+210,royal_agricultural_college,"Royal Agricultural College, Cirencester",英国,2,1,2.0,136,Mackay Hugh Baillie Scott,2,100%
+210,st_martins,St Martins School of Art,英国,2,2,1.0,79,Brian Duffy,1,50%
+210,delft_technology,Technische Hogeschool Delft,オランダ,2,2,1.0,79,Louis Christiann Kalff,1,50%
+210,ucl,University College London,英国,2,2,1.0,79,Richard Hamilton,2,100%
+210,university_arizona,University of Arizona,米国,2,1,2.0,136,Don Pettit,2,100%
+210,university_cape_town,University of Cape Town,南アフリカ,2,2,1.0,79,Ralph Borland,1,50%
+210,university_florida,University of Florida,米国,2,1,2.0,136,Marc Treib,2,100%
+210,illinois_scorsone,University of Illinois（Scorsone、キャンパス確認待ち）,米国,2,1,2.0,136,Joe Scorsone,2,100%
+210,university_of_iowa,University of Iowa,米国,2,2,1.0,79,Jane Wilson,1,50%
+210,university_of_kent_uk,University of Kent,英国,2,1,2.0,136,Lorraine Gamman,2,100%
+210,university_london_college_unspecified,University of London（構成校不明）,英国,2,2,1.0,79,Andrew Ive,1,50%
+210,university_montana_missoula,University of Montana–Missoula,米国,2,1,2.0,136,Jeremy White,2,100%
+210,notre_dame,University of Notre Dame,米国,2,2,1.0,79,John Brassil,1,50%
+210,university_victoria_bc,University of Victoria,カナダ,2,1,2.0,136,Todd MacAllen,2,100%
+210,university_stuttgart,Universität Stuttgart,ドイツ,2,1,2.0,136,Ali Tayar,2,100%
+210,esdi_paris,"École supérieure de design industriel (ESDI), Paris",フランス,2,2,1.0,79,Olivier Peyricot,1,50%
+210,chiba,千葉大学,日本,2,2,1.0,79,Masamichi Udagawa,1,50%
+210,nihon_university,日本大学,日本,2,2,1.0,79,Shoichi Yokoyama,1,50%
+210,tokyo_design_college_toda,東京デザインカレッジ,日本,2,1,2.0,136,Masatoshi Toda,2,100%
+250,aki_academy_enschede,"AKI Academy of Art & Design, Enschede",オランダ,1,1,1.0,136,Hein van Dam,1,100%
+250,aarhus_teknikum,Aarhus Teknikum,デンマーク,1,1,1.0,136,Niels Due Jensen,1,100%
+250,rotterdam_arts,"Academie voor Beeldende Kunsten, Rotterdam",オランダ,1,1,1.0,136,Jos van der Meulen,1,100%
+250,bratislava_acad_fine_arts,"Academy of Fine Arts and Design, Bratislava",スロバキア,1,1,1.0,136,Tomáš Gabzdil Libertíny,1,100%
+250,palermo_accademia_belle_arti,Accademia di Belle Arti di Palermo,イタリア,1,1,1.0,136,Emilio Greco,1,100%
+250,zagreb_academy_dramatic_art,"Akademija dramske umjetnosti, Zagreb",クロアチア,1,1,1.0,136,Zvonimir Atletić,1,100%
+250,american_television_institute_technology,"American Television Institute of Technology, Chicago",米国,1,1,1.0,136,Ralph Baer,1,100%
+250,american_university,American University,米国,1,1,1.0,136,Josh Williams,1,100%
+250,athens_fine_arts,Athens School of Fine Arts,ギリシャ,1,1,1.0,136,Pavlos,1,100%
+250,babson_institute,Babson Institute,米国,1,1,1.0,136,John Brockman,1,100%
+250,barnfield_college,"Barnfield College, Luton",英国,1,1,1.0,136,Jonathan Barnbrook,1,100%
+250,bennington,Bennington College,米国,1,1,1.0,136,Helen Frankenthaler,1,100%
+250,black_mountain,Black Mountain College,米国,1,1,1.0,136,Dorothy Cole Ruddick,1,100%
+250,boston_state,Boston State College,米国,1,1,1.0,136,Bob Hall,1,100%
+250,bournemouth_poole_art,Bournemouth and Poole College of Art and Design,英国,1,1,1.0,136,Nick Knight,1,100%
+250,bowdoin_college,Bowdoin College,米国,1,1,1.0,136,Todd Greene,1,100%
+250,brooklyn,Brooklyn College,米国,1,1,1.0,136,Jane Freilicher,1,100%
+250,brooks_photography,Brooks Institute of Photography,米国,1,1,1.0,136,Bob Evans,1,100%
+250,calarts,California Institute of the Arts,米国,1,1,1.0,136,Barry Deck,1,100%
+250,cal_state_la,"California State College, Los Angeles",米国,1,1,1.0,136,Arturo Sandoval,1,100%
+250,chouinard,Chouinard Art Institute,米国,1,1,1.0,136,Edward Ruscha,1,100%
+250,city_university_london,"City University, London",英国,1,1,1.0,136,Nikki Dibben,1,100%
+250,cleveland,Cleveland Institute of Art,米国,1,1,1.0,136,Richard Anuszkiewicz,1,100%
+250,columbia_college_chicago,Columbia College Chicago,米国,1,1,1.0,136,Norman Teague,1,100%
+250,croydon_college,Croydon College,英国,1,1,1.0,136,Jonathan Barnbrook,1,100%
+250,dartmouth,Dartmouth College,米国,1,1,1.0,136,Valentine Dudensing,1,100%
+250,edinburgh_art,Edinburgh College of Art,英国,1,1,1.0,136,Basil Spence,1,100%
+250,prilidiano_pueyrredon,Escuela Nacional de Bellas Artes Prilidiano Pueyrredón,アルゼンチン,1,1,1.0,136,Julio Le Parc,1,100%
+250,madrid_etsam_historical,Escuela Superior de Arquitectura de Madrid（1953年当時）,スペイン,1,1,1.0,136,Javier Carvajal,1,100%
+250,fit,Fashion Institute of Technology,米国,1,1,1.0,136,Norma Kamali,1,100%
+250,sofia_arts,"Fine Arts Academy, Sofia",ブルガリア,1,1,1.0,136,Luba Lukova,1,100%
+250,finnish_art_society,"Finnish Art Society’s Drawing School, Helsinki",フィンランド,1,1,1.0,136,Akseli Gallen-Kallela,1,100%
+250,florida_am_university,Florida A&M University,米国,1,1,1.0,136,Audra D.S. Burch,1,100%
+250,franklin_marshall_college,Franklin & Marshall College,米国,1,1,1.0,136,Peter L. Zane,1,100%
+250,georgia_state,Georgia State University,米国,1,1,1.0,136,Jimmy DeSana,1,100%
+250,altona_handwerk_kunst,Handwerker- und Kunstgewerbeschule Altona,ドイツ,1,1,1.0,136,Siegfried Moeller,1,100%
+250,heatherleys,Heatherley’s School of Art,英国,1,1,1.0,136,Sybil Andrews,1,100%
+250,berlin_hdk,Hochschule der Künste Berlin,ドイツ,1,1,1.0,136,Alfred Bernard Stein,1,100%
+250,hongik_university,Hongik University,韓国,1,1,1.0,136,Choi Byung Hoon,1,100%
+250,iit_kanpur,Indian Institute of Technology Kanpur,インド,1,1,1.0,136,Manu Prakash,1,100%
+250,idi_ivrea,Interaction Design Institute Ivrea,イタリア,1,1,1.0,136,David Mellis,1,100%
+250,venice_isa_design,"Istituto Statale d’Arte, Corso Superiore di Disegno Industriale, Venezia",イタリア,1,1,1.0,136,Oskar Kogoj,1,100%
+250,vigliardi_paravia,"Istituto di Arti Grafiche Vigliardi Paravia, Torino",イタリア,1,1,1.0,136,Armando Testa,1,100%
+250,john_f_kennedy_university,John F. Kennedy University,米国,1,1,1.0,136,Howard Scott Warshaw,1,100%
+250,kent,Kent State University,米国,1,1,1.0,136,Richard Anuszkiewicz,1,100%
+250,antwerp_royal_academy,"Koninklijke Academie voor Schone Kunsten, Antwerpen",ベルギー,1,1,1.0,136,Martin Margiela,1,100%
+250,breda_military,"Koninklijke Militaire Academie, Breda",オランダ,1,1,1.0,136,W. M. Dudok,1,100%
+250,dusseldorf_academy,Kunstakademie Düsseldorf,ドイツ,1,1,1.0,136,Wilhelm Lehmbruck,1,100%
+250,charlottenburg_kunstgewerbe,Kunstgewerbe- und Handwerkerschule Berlin-Charlottenburg,ドイツ,1,1,1.0,136,Theodor Paul Etbauer,1,100%
+250,linz_kunstgewerbe,Kunstgewerbeschule Linz,オーストリア,1,1,1.0,136,Erich Buchegger,1,100%
+250,munich_academy,Königlich-Bayerische Akademie der Bildenden Künste München,ドイツ,1,1,1.0,136,Tamiko Thiel,1,100%
+250,university_copenhagen,Københavns Universitet,デンマーク,1,1,1.0,136,Jens Martin Skibsted,1,100%
+250,debschitz,Lehr- und Versuchsateliers für angewandte und freie Kunst（Debschitz-Schule）,ドイツ,1,1,1.0,136,Wolfgang von Wersin,1,100%
+250,liverpool_john_moores,Liverpool John Moores University,英国,1,1,1.0,136,Nicolas Roope,1,100%
+250,loughborough_college,Loughborough College,英国,1,1,1.0,136,Malcolm Sayer,1,100%
+250,lowell_textile_school,Lowell Textile School,米国,1,1,1.0,136,Earle Dickson,1,100%
+250,loyola_marymount,Loyola Marymount University,米国,1,1,1.0,136,Chris D.,1,100%
+250,lmu,Ludwig-Maximilians-Universität München,ドイツ,1,1,1.0,136,Hendrik Willem van Loon,1,100%
+250,giessen_ludwigs_university,Ludwigs-Universität Gießen,ドイツ,1,1,1.0,136,Emile Preetorius,1,100%
+250,malmo_university,Malmö universitet,スウェーデン,1,1,1.0,136,David Cuartielles,1,100%
+250,mcgill,McGill University,カナダ,1,1,1.0,136,Lani Adeoye,1,100%
+250,michigan_state,Michigan State University,米国,1,1,1.0,136,Michael McCoy,1,100%
+250,michigan_tech,Michigan Technological University,米国,1,1,1.0,136,Tony Esposito,1,100%
+250,montclair_state_university,Montclair State College / Montclair State University（授与時の名称未確定）,米国,1,1,1.0,136,Peter L. Zane,1,100%
+250,national_institute_design_india,"National Institute of Design, Ahmedabad",インド,1,1,1.0,136,Nipa Doshi,1,100%
+250,new_england_school_of_law,New England School of Law,米国,1,1,1.0,136,Peter L. Zane,1,100%
+250,norwich_arts_historical_congdon,Norwich University of the Arts（本人資料表記、授与当時校名要照合）,英国,1,1,1.0,136,Amy Congdon,1,100%
+250,nottingham_trent,Nottingham Trent University,英国,1,1,1.0,136,Alexander Taylor,1,100%
+250,oberlin,Oberlin College,米国,1,1,1.0,136,Robert Faludi,1,100%
+250,otis_art_institute_parsons,Otis Art Institute of Parsons School of Design,米国,1,1,1.0,136,Robert Fisher,1,100%
+250,pace_university,Pace University,米国,1,1,1.0,136,Telfar Clemens,1,100%
+250,philadelphia_college_art,Philadelphia College of Art（当時校）,米国,1,1,1.0,136,Tony Lane,1,100%
+250,puc_sp,Pontifícia Universidade Católica de São Paulo,ブラジル,1,1,1.0,136,Julio Plaza,1,100%
+250,turin_accademia_albertina,"Regia Accademia Albertina, Torino",イタリア,1,1,1.0,136,Nikolay Diulgheroff,1,100%
+250,bologna_regia_scuola_ingegneri,"Regia Scuola di Applicazione per gli Ingegneri, Bologna",イタリア,1,1,1.0,136,Gabriele Mucchi,1,100%
+250,reichshochschule_angewandte_wien,"Reichshochschule für angewandte Kunst, Wien",オーストリア,1,1,1.0,136,Eleanore Bujatti,1,100%
+250,rice_institute,Rice Institute,米国,1,1,1.0,136,Herbert Allen,1,100%
+250,amsterdam_rijksnormaalschool,"Rijksnormaalschool voor teekenonderwijzers, Amsterdam",オランダ,1,1,1.0,136,J. Sluijters,1,100%
+250,rit,Rochester Institute of Technology,米国,1,1,1.0,136,Thomas Klinkowstein,1,100%
+250,royal_melbourne_technical,Royal Melbourne Technical College,オーストラリア,1,1,1.0,136,Richard Carlson,1,100%
+250,rutgers,Rutgers University,米国,1,1,1.0,136,Lucas Samaras,1,100%
+250,sfai,San Francisco Art Institute,米国,1,1,1.0,136,Elizabeth Browning Jackson,1,100%
+250,sandberg_instituut,Sandberg Instituut,オランダ,1,1,1.0,136,Yara Said,1,100%
+250,santa_clara_university,Santa Clara University,米国,1,1,1.0,136,John Brassil,1,100%
+250,aarhus_arch,"School of Architecture, Aarhus",デンマーク,1,1,1.0,136,Karin Schou Andersen,1,100%
+250,olivet_industrial_design_paris_unresolved,School of Industrial Design in Paris（Jérôme Olivet公式略歴表記）,フランス,1,1,1.0,136,Jerome Olivet,1,100%
+250,crema_regione_lombardia_vocational,"Scuola di formazione professionale della Regione Lombardia, Crema",イタリア,1,1,1.0,136,Giulio Iacchetti,1,100%
+250,seoul_national,Seoul National University,韓国,1,1,1.0,136,Dan Dongeun Huh,1,100%
+250,enschede_sociale_academie,"Sociale Academie, Enschede",オランダ,1,1,1.0,136,Ruud Jan Kokke,1,100%
+250,st_andrews_stirling_sasp,St Andrews/Stirling Graduate Programme in Philosophy（授与校の個別表記未確認）,英国,1,1,1.0,136,Brian Glenney,1,100%
+250,petersburg_univ_iliazd,St. Petersburg University（Iliazd資料表記）,ロシア・ソ連,1,1,1.0,136,Iliazd (Ilia Zdanevich),1,100%
+250,oslo_shks_historical,"Statens håndverks- og kunstindustriskole, Oslo（統合前）",ノルウェー,1,1,1.0,136,Peter Opsvik,1,100%
+250,stockholm_university,Stockholms universitet,スウェーデン,1,1,1.0,136,Gary Anderson,1,100%
+250,staedelschule,"Städelschule, Frankfurt am Main",ドイツ,1,1,1.0,136,Sarah Ortmeyer,1,100%
+250,university_zagreb,Sveučilište u Zagrebu,クロアチア,1,1,1.0,136,Luka Mjeda,1,100%
+250,teachers_college_columbia,"Teachers College, Columbia University",米国,1,1,1.0,136,Jane Freilicher,1,100%
+250,budapest_technical,Technical University of Budapest,ハンガリー,1,1,1.0,136,Farkas Molnár,1,100%
+250,dresden_technical,Technische Hochschule Dresden,ドイツ,1,1,1.0,136,Wassili Luckhardt,1,100%
+250,tum,Technische Hochschule München,ドイツ,1,1,1.0,136,Erich Mendelsohn,1,100%
+250,tel_aviv_university,Tel Aviv University,イスラエル,1,1,1.0,136,Galya Rosenfeld,1,100%
+250,tcu,Texas Christian University,米国,1,1,1.0,136,James Boynton,1,100%
+250,university_toyama,Toyama University（MoMA略歴表記）,日本,1,1,1.0,136,Yoshihiro Kimura,1,100%
+250,trent_park_college,Trent Park College,英国,1,1,1.0,136,Vivienne Westwood,1,100%
+250,trinity_college_dublin,Trinity College Dublin,アイルランド,1,1,1.0,136,Ralph Borland,1,100%
+250,tulane,Tulane University,米国,1,1,1.0,136,Howard Scott Warshaw,1,100%
+250,umprum,"Uměleckoprůmyslová škola, Praha / VŠUP",チェコ・チェコスロバキア,1,1,1.0,136,Josef Flejšar,1,100%
+250,up6_paris_la_villette,"Unité pédagogique d’architecture n°6, Paris",フランス,1,1,1.0,136,Martine Bedin,1,100%
+250,university_zaragoza,Universidad de Zaragoza,スペイン,1,1,1.0,136,David Cuartielles,1,100%
+250,universidade_brasilia,Universidade de Brasília,ブラジル,1,1,1.0,136,Danilo Barbosa,1,100%
+250,ufpe,Universidade do Recife（1965年からUFPE）,ブラジル,1,1,1.0,136,Aloísio Magalhães,1,100%
+250,pompeu_fabra,Universitat Pompeu Fabra,スペイン,1,1,1.0,136,Martín Ruiz de Azúa,1,100%
+250,university_barcelona,Universitat de Barcelona,スペイン,1,1,1.0,136,Martín Ruiz de Azúa,1,100%
+250,university_arkansas,University of Arkansas,米国,1,1,1.0,136,Woody Pirtle,1,100%
+250,university_auckland,University of Auckland,ニュージーランド,1,1,1.0,136,Peter Haythornthwaite,1,100%
+250,bologna,University of Bologna,イタリア,1,1,1.0,136,Giulio Iacchetti,1,100%
+250,university_british_columbia,University of British Columbia,カナダ,1,1,1.0,136,Wells Coates,1,100%
+250,uc_santa_barbara,"University of California, Santa Barbara",米国,1,1,1.0,136,Stephen Malinowski,1,100%
+250,university_colorado_boulder,University of Colorado Boulder,米国,1,1,1.0,136,Spencer Silver,1,100%
+250,university_dallas,University of Dallas,米国,1,1,1.0,136,Douglas Easterly,1,100%
+250,university_damascus,University of Damascus,シリア,1,1,1.0,136,Yara Said,1,100%
+250,university_huddersfield,University of Huddersfield,英国,1,1,1.0,136,Lionel Theodore Dean,1,100%
+250,leeds_university,University of Leeds,英国,1,1,1.0,136,Nifemi Marcus Bello,1,100%
+250,university_leicester,University of Leicester,英国,1,1,1.0,136,Storm Thorgerson,1,100%
+250,university_liverpool,University of Liverpool,英国,1,1,1.0,136,T. H. Robsjohn-Gibbings,1,100%
+250,victoria_university_manchester,University of Manchester（1961年、Victoria University of Manchester）,英国,1,1,1.0,136,Norman Foster,1,100%
+250,university_melbourne,University of Melbourne,オーストラリア,1,1,1.0,136,Bennett Foddy,1,100%
+250,university_minnesota,University of Minnesota,米国,1,1,1.0,136,Art Fry,1,100%
+250,oxford,University of Oxford,英国,1,1,1.0,136,Tom Phillips,1,100%
+250,upenn,University of Pennsylvania,米国,1,1,1.0,136,Danny Fields,1,100%
+250,university_sheffield,University of Sheffield,英国,1,1,1.0,136,Nikki Dibben,1,100%
+250,university_vermont,University of Vermont,米国,1,1,1.0,136,Deborah Adler,1,100%
+250,university_virginia,University of Virginia,米国,1,1,1.0,136,Aldo DiBelardino,1,100%
+250,wisconsin_campus_unspecified,University of Wisconsin（キャンパス不明）,米国,1,1,1.0,136,Robert J. King,1,100%
+250,universita_palermo,Università di Palermo,イタリア,1,1,1.0,136,Guido Ballo,1,100%
+250,paris_sorbonne_historical,Université de Paris (Sorbonne),フランス,1,1,1.0,136,Jacques-André Boiffard,1,100%
+250,provence_university,Université de Provence (Aix-Marseille I),フランス,1,1,1.0,136,Lucien Clergue,1,100%
+250,virginia_commonwealth_university,Virginia Commonwealth University,米国,1,1,1.0,136,Jeffrey Ventrella,1,100%
+250,washburn_college,Washburn College,米国,1,1,1.0,136,Bradbury Thompson,1,100%
+250,washington_stl,"Washington University, St. Louis",米国,1,1,1.0,136,"John F. Simon, Jr.",1,100%
+250,western_michigan_univ,Western Michigan University,米国,1,1,1.0,136,Jeffery Keedy,1,100%
+250,wheaton_college_illinois,"Wheaton College, Illinois",米国,1,1,1.0,136,Dave Theurer,1,100%
+250,fontainebleau_american_art_school,"École Américaine des Beaux-Arts, Fontainebleau",フランス,1,1,1.0,136,George Nakashima,1,100%
+250,ecole_estienne,"École Estienne, Paris",フランス,1,1,1.0,136,Martin Szekely,1,100%
+250,paris_arts_appliques_historical,École des Arts Appliqués de Paris,フランス,1,1,1.0,136,Serge Mouille,1,100%
+250,ecole_ponts_chaussees,École des ponts et chaussées,フランス,1,1,1.0,136,Quasar (Nguyen Manh Khanh),1,100%
+250,la_cambre,École supérieure des arts visuels de La Cambre,ベルギー,1,1,1.0,136,Elric Petit,1,100%
+250,esec_paris,"École supérieure d’études cinématographiques (ESEC), Paris",フランス,1,1,1.0,136,Jens Martin Skibsted,1,100%
+250,czech_technical_prague,České vysoké učení technické v Praze,チェコ・チェコスロバキア,1,1,1.0,136,Otto Wichterle,1,100%
+250,hlukhiv_teachers_institute,Глухівський учительський інститут (Hlukhiv Teachers’ Institute),ウクライナ,1,1,1.0,136,Alexander Dovzhenko,1,100%
+250,moscow_aviation_institute,Московский авиационный институт,ロシア・ソ連,1,1,1.0,136,Alexey Pajitnov,1,100%
+250,chuo_art_school,中央美術学園,日本,1,1,1.0,136,Hajime Sorayama,1,100%
+250,chubu_university,中部大学,日本,1,1,1.0,136,Yuya Ushida,1,100%
+250,sozosha_design_school,創造社デザイン専門学校,日本,1,1,1.0,136,Yoshiki Okamoto,1,100%
+250,kokugakuin,國學院大學,日本,1,1,1.0,136,Osamu Mita,1,100%
+250,osaka_arts,大阪芸術大学,日本,1,1,1.0,136,Keizo Matsui,1,100%
+250,tokyo_institute_technology,東京工業大学,日本,1,1,1.0,136,Takahama Kazuhide,1,100%
+250,tokyo_zokei,東京造形大学,日本,1,1,1.0,136,Hideo Kanbara,1,100%
+250,tokyo_denki_university,東京電機大学,日本,1,1,1.0,136,Tomohiro Nishikado,1,100%
+250,tokai_university,東海大学,日本,1,1,1.0,136,Toru Iwatani,1,100%
+250,hosei_university,法政大学,日本,1,1,1.0,136,Eiji Miyamoto,1,100%
+250,ritsumeikan_university,立命館大学,日本,1,1,1.0,136,Masaya Matsuura,1,100%
+250,kanazawa_art_junior,金澤美術工藝短期大學,日本,1,1,1.0,136,Jun Tabohashi,1,100%
+250,kwansei_gakuin,関西学院大学,日本,1,1,1.0,136,Toshifumi Kawahara,1,100%
+250,seoultech,서울산업대학교（Seoul National University of Technology）,韓国,1,1,1.0,136,Minjeong An,1,100%
