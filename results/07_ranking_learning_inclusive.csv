@@ -10,7 +10,7 @@
 9,design_academy_eindhoven,Design Academy Eindhoven,オランダ,30,27,0,2,0,1,0,4
 9,yale,Yale University,米国,30,21,0,4,5,0,0,6
 11,academie_julian,Académie Julian,フランス,29,0,0,28,0,1,0,圏外（卒業・修了の計上なし）
-12,artcenter,Art Center School,米国,27,14,0,10,3,0,0,8
+12,artcenter,Art Center School,米国,27,13,0,10,3,0,1,11
 12,nyu,New York University,米国,27,14,0,10,1,2,0,8
 14,vienna_fine_arts,Akademie der bildenden Künste Wien,オーストリア,26,5,0,17,1,3,0,32
 15,cooper_union,Cooper Union,米国,24,14,0,7,3,0,0,8
@@ -18,7 +18,7 @@
 17,kunstgewerbe_wien,Kunstgewerbeschule Wien,オーストリア,22,4,0,15,3,0,0,40
 18,zurich_applied_arts,Kunstgewerbeschule Zürich,スイス,21,4,0,16,0,1,0,40
 18,munich_academy,Königlich-Bayerische Akademie der Bildenden Künste München,ドイツ,21,1,0,17,1,2,0,136
-18,risd,Rhode Island School of Design,米国,21,13,0,3,4,1,0,12
+18,risd,Rhode Island School of Design,米国,21,13,0,3,4,1,0,11
 21,basel_gewerbe,Allgemeine Gewerbeschule Basel,スイス,20,2,0,13,5,0,0,79
 22,chicago_art_institute,School of the Art Institute of Chicago,米国,19,4,0,12,2,1,0,40
 22,ucl,University College London,英国,19,2,0,17,0,0,0,79
@@ -26,7 +26,7 @@
 24,copenhagen_academy,"Kunstakademiet, Copenhagen",デンマーク,18,8,0,6,4,0,0,24
 24,parsons,Parsons School of Design,米国,18,10,0,7,0,0,1,17
 24,florence,Università degli Studi di Firenze,イタリア,18,14,0,4,0,0,0,8
-28,cranbrook,Cranbrook Academy of Art,米国,17,13,0,3,0,0,1,12
+28,cranbrook,Cranbrook Academy of Art,米国,17,13,0,3,0,0,1,11
 28,uc_berkeley,"University of California, Berkeley",米国,17,9,0,5,2,1,0,20
 30,helsinki_industrial_arts,Helsingin Taideteollinen Oppilaitos,フィンランド,16,12,0,3,1,0,0,14
 30,stanford,Stanford University,米国,16,12,0,2,2,0,0,14

@@ -18,8 +18,8 @@
 17,brera_academy,Accademia di Belle Arti di Brera,イタリア,19,1,Joe Colombo,19,100%,75
 17,berlin_university_historical,Universität Berlin（当時の機関）,ドイツ,19,1,Peter Schlumbohm,19,100%,75
 19,copenhagen_technical,Technical School in Copenhagen（Ahlefeldtsgade）,デンマーク,18,1,Arne Jacobsen,18,100%,75
-20,artcenter,Art Center School,米国,17,6,Yves Béhar,10,59%,12
-21,princeton,Princeton University,米国,14,5,Emilio Ambasz,4,29%,15
+20,artcenter,Art Center School,米国,14,5,Yves Béhar,10,71%,14
+20,princeton,Princeton University,米国,14,5,Emilio Ambasz,4,29%,14
 22,domus_academy,"Domus Academy, Milano",イタリア,13,2,Constantin Boym,12,92%,41
 22,musashino_junior,武蔵野美術短期大学,日本,13,2,Makoto Komatsu,12,92%,41
 24,sva,Cartoonists and Illustrators School / School of Visual Arts,米国,12,1,Laurene Leon Boym,12,100%,75
@@ -28,8 +28,8 @@
 24,paris_ucad_school,École de l’Union centrale des arts décoratifs,フランス,12,1,Charlotte Perriand,12,100%,75
 28,west_surrey_college_art_design,"West Surrey College of Art and Design, Farnham",英国,11,1,Emma Woffenden,11,100%,75
 29,camondo,Centre d’art et de techniques（École Camondoの旧称）,フランス,10,1,Pierre Paulin,10,100%,75
-29,cranbrook,Cranbrook Academy of Art,米国,10,5,David Rowland,3,30%,15
-29,ensci_les_ateliers,École nationale supérieure de création industrielle – Les Ateliers,フランス,10,5,Mathieu Lehanneur,4,40%,15
+29,cranbrook,Cranbrook Academy of Art,米国,10,5,David Rowland,3,30%,14
+29,ensci_les_ateliers,École nationale supérieure de création industrielle – Les Ateliers,フランス,10,5,Mathieu Lehanneur,4,40%,14
 29,tama_art,多摩美術大学,日本,10,1,Naoto Fukasawa,10,100%,75
 29,waseda,早稲田大学,日本,10,3,Masayuki Kurokawa,8,80%,24
 34,vienna_bundeslehranstalt_textil,"Bundeslehranstalt für Textilindustrie, Wien",オーストリア,9,1,Otto Natzler,9,100%,75
@@ -37,7 +37,7 @@
 34,usc,University of Southern California,米国,9,2,Frank O. Gehry,7,78%,41
 37,bezalel,"Bezalel School of Arts, Jerusalem",イスラエル,8,6,Ron Arad,4,50%,12
 37,cooper_union,Cooper Union,米国,8,3,Irving Harper,4,50%,24
-37,harvard,Harvard University,米国,8,5,Eric Rosenbaum,3,38%,15
+37,harvard,Harvard University,米国,8,5,Eric Rosenbaum,3,38%,14
 37,hfg_ulm,Hochschule für Gestaltung Ulm,ドイツ,8,2,Reinhold Weiss,6,75%,41
 37,london_printing,London College of Printing,英国,8,1,Keith Godard,8,100%,75
 37,nagoya_technology,名古屋工業大学,日本,8,1,Masayuki Kurokawa,8,100%,75
@@ -58,7 +58,7 @@
 53,torino,Politecnico di Torino,イタリア,5,6,Aimaro Oreglia d'Isola,2,40%,12
 53,risd,Rhode Island School of Design,米国,5,3,Toots Zynsky,3,60%,24
 53,stuttgart_academy_postwar,Staatliche Akademie der Bildenden Künste Stuttgart（戦後）,ドイツ,5,2,Axel Schmid,4,80%,41
-53,stanford,Stanford University,米国,5,5,Clifton Roozeboom,1,20%,15
+53,stanford,Stanford University,米国,5,5,Clifton Roozeboom,1,20%,14
 53,syracuse,Syracuse University,米国,5,2,Lurelle Guild,4,80%,41
 53,stuttgart_technical,Technische Hochschule Stuttgart,ドイツ,5,1,Hermann Gretsch,5,100%,75
 53,cambridge,University of Cambridge,英国,5,3,Jay Silver,3,60%,24

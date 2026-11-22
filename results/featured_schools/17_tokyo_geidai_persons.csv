@@ -1,5 +1,5 @@
 person_id,ConstituentID,氏名,国籍_MoMA表記,生年,没年,卒業修了年の候補,専攻分類,ほかに卒業修了した機関,作品数,作品種別の内訳,MoMA人物ページ,卒業修了の根拠URL,根拠の参照箇所
-moma_person_27007,27007,Kenji Ekuan,Japanese,1929,2015,1955,その他のデザイン,Art Center School,3,食器・キッチン・日用品3,https://www.moma.org/artists/27007,https://www.tobunken.go.jp/materials/bukko/808976.html | https://jp.gkdi.com/about/kenji-ekuan/,L57、略歴 | L53–57、本人略歴
+moma_person_27007,27007,Kenji Ekuan,Japanese,1929,2015,1955,その他のデザイン,,3,食器・キッチン・日用品3,https://www.moma.org/artists/27007,https://www.tobunken.go.jp/materials/bukko/808976.html | https://jp.gkdi.com/about/kenji-ekuan/,L57、略歴 | L53–57、本人略歴
 moma_person_2026,2026,Shigeo Fukuda,Japanese,1932,2009,1956,その他のデザイン,,4,印刷物・グラフィック（ポスター等）4,https://www.moma.org/artists/2026,https://www.tobunken.go.jp/materials/bukko/28440.html,本文L56、年鑑457–458頁
 moma_person_6482,6482,Harumi Yamaguchi,Japanese,1936,,,美術,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/6482,https://fashionpost.jp/portraits/142395,本人インタビュー末尾の略歴（本文L195）
 moma_person_2835,2835,Eiko Ishioka,Japanese,1938,2012,1961,その他のデザイン,,1,印刷物・グラフィック（ポスター等）1,https://www.moma.org/artists/2835,https://www.tobunken.go.jp/materials/bukko/204383.html,L57
